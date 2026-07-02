@@ -52,6 +52,6 @@ def hyperspace_time(departure_planet, arrival_planet):
 
     }
 
-result = hyperspace_time("Ab Dalis", "Abafar")
+result = hyperspace_time("Tatooine", "Coruscant")
 
 print(result)
