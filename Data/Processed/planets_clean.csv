@@ -1,0 +1,1063 @@
+planet_id,name,region,navigability,grid_col,grid_row,x,y,has_coords
+5251977,5251977,Unknown,,,,,,False
+aaloth,Aaloth,Outer Rim Territories,2.0,,,,,False
+aargonar,Aargonar,Unknown,,,,,,False
+ab-dalis,Ab Dalis,Outer Rim Territories,2.0,R,17.0,17.0,16.0,True
+abafar,Abafar,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+abednedo,Abednedo,Colonies,4.0,,,,,False
+abelor,Abelor,Mid Rim Territories,3.0,K,17.0,10.0,16.0,True
+abregado-rae,Abregado-rae,Core Worlds,5.0,K,13.0,10.0,12.0,True
+absanz,Absanz,Unknown,,,,,,False
+actlyon,Actlyon,Outer Rim Territories,2.0,,,,,False
+adelphi,Adelphi,Unknown,,,,,,False
+aeos-prime,Aeos Prime,Outer Rim Territories,2.0,M,3.0,12.0,2.0,True
+aeten-ii,Aeten II,Wild Space,1.0,J,6.0,9.0,5.0,True
+affa,Affa,Unknown,,,,,,False
+affadar,Affadar,Unknown,,,,,,False
+agamar,Agamar,Outer Rim Territories,2.0,M,5.0,12.0,4.0,True
+agaris,Agaris,Wild Space,1.0,G,14.0,6.0,13.0,True
+agoliba-ado,Agoliba-Ado,Unknown,,K,3.0,10.0,2.0,True
+agoliba-ena,Agoliba-Ena,Unknown,,K,3.0,10.0,2.0,True
+ahch-to,Ahch-To,Unknown Regions,1.0,F,13.0,5.0,12.0,True
+ajara,Ajara,Outer Rim Territories,2.0,L,5.0,11.0,4.0,True
+akiva,Akiva,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+alaris,Alaris,Mid Rim Territories,3.0,P,9.0,15.0,8.0,True
+alderaan,Alderaan,Core Worlds,5.0,M,10.0,12.0,9.0,True
+aldhani,Aldhani,Unknown,,,,,,False
+aleen,Aleen,Mid Rim Territories,3.0,L,7.0,11.0,6.0,True
+aleen-minor,Aleen Minor,Mid Rim Territories,3.0,,,,,False
+allst-prime,Allst Prime,Unknown,,,,,,False
+aloxl,Aloxl,Deep Core,5.0,,,,,False
+aloxor,Aloxor,Mid Rim Territories,3.0,R,11.0,17.0,10.0,True
+alpinn,Alpinn,Outer Rim Territories,2.0,N,4.0,13.0,3.0,True
+alun,Alun,Mid Rim Territories,3.0,,,,,False
+alzoc-iii,Alzoc III,Outer Rim Territories,2.0,P,19.0,15.0,18.0,True
+ambria,Ambria,Inner Rim Territories,,O,10.0,14.0,9.0,True
+amethia-prime,Amethia Prime,Inner Rim Territories,,,,,,False
+ammon-iv,Ammon IV,Outer Rim Territories,2.0,,,,,False
+ammuud,Ammuud,Outer Rim Territories,2.0,,,,,False
+anantapar,Anantapar,Outer Rim Territories,2.0,,,,,False
+anaxes,Anaxes,Core Worlds,5.0,R,7.0,17.0,6.0,True
+andelm-iv,Andelm IV,Outer Rim Territories,2.0,O,19.0,14.0,18.0,True
+ando,Ando,Mid Rim Territories,3.0,Q,15.0,16.0,14.0,True
+ando-prime,Ando Prime,Unknown,,,,,,False
+anelsana,Anelsana,Unknown,,,,,,False
+ankhural,Ankhural,Mid Rim Territories,3.0,R,9.0,17.0,8.0,True
+anoat,Anoat,Outer Rim Territories,2.0,,,,,False
+ansion,Ansion,Mid Rim Territories,3.0,I,6.0,8.0,5.0,True
+antar,Antar,Inner Rim Territories,,N,12.0,13.0,11.0,True
+anthan-prime,Anthan Prime,Outer Rim Territories,2.0,K,3.0,10.0,2.0,True
+aquaris,Aquaris,Expansion Region,3.0,N,7.0,13.0,6.0,True
+aq-vetina,Aq Vetina,Unknown,,,,,,False
+arbiflux,Arbiflux,Outer Rim Territories,2.0,L,3.0,11.0,2.0,True
+arbooine,Arbooine,Outer Rim Territories,2.0,,,,,False
+arbra,Arbra,Outer Rim Territories,2.0,N,17.0,13.0,16.0,True
+argai-minor,Argai Minor,Unknown,,,,,,False
+aria-prime,Aria Prime,Unknown,,,,,,False
+aridus,Aridus,Expansion Region,3.0,O,14.0,14.0,13.0,True
+arieli,Arieli,Unknown,,,,,,False
+arkania,Arkania,Colonies,4.0,M,8.0,12.0,7.0,True
+arkanis,Arkanis,Outer Rim Territories,2.0,R,17.0,17.0,16.0,True
+aris,Aris,Unknown,,,,,,False
+arreyel,Arreyel,Inner Rim Territories,,,,,,False
+artiod-minor,Artiod Minor,Wild Space,1.0,S,3.0,18.0,2.0,True
+arvala-7,Arvala-7,Unknown,,,,,,False
+ashas-ree,Ashas Ree,Outer Rim Territories,2.0,R,5.0,17.0,4.0,True
+askaji,Askaji,Outer Rim Territories,2.0,M,20.0,12.0,19.0,True
+asmeru,Asmeru,Mid Rim Territories,3.0,,,,,False
+asusto,Asusto,Outer Rim Territories,2.0,P,5.0,15.0,4.0,True
+athulla,Athulla,Core Worlds,5.0,,,,,False
+atollon,Atollon,Outer Rim Territories,2.0,,,,,False
+atraken,Atraken,Unknown,,,,,,False
+atterra-alpha,Atterra Alpha,Outer Rim Territories,2.0,,,,,False
+atterra-bravo,Atterra Bravo,Outer Rim Territories,2.0,,,,,False
+atterra-primo,Atterra Primo,Outer Rim Territories,2.0,,,,,False
+auratera,Auratera,Outer Rim Territories,2.0,,,,,False
+avedot,Avedot,Colonies,4.0,L,8.0,11.0,7.0,True
+avidich,Avidich,Unknown Regions,1.0,,,,,False
+axxila,Axxila,Outer Rim Territories,2.0,O,5.0,14.0,4.0,True
+bakura,Bakura,Wild Space,1.0,G,16.0,6.0,15.0,True
+balnab,Balnab,Mid Rim Territories,3.0,,,,,False
+balosar,Balosar,Core Worlds,5.0,L,12.0,11.0,11.0,True
+bamayar,Bamayar,Mid Rim Territories,3.0,,,,,False
+bamayar-ix,Bamayar IX,Unknown,,,,,,False
+banas,Banas,Outer Rim Territories,2.0,,,,,False
+banchii,Banchii,Outer Rim Territories,2.0,K,19.0,10.0,18.0,True
+b-ankora-homeworld,B'ankora homeworld,Unknown,,,,,,False
+baraan-fa,Baraan-Fa,Outer Rim Territories,2.0,N,17.0,13.0,16.0,True
+barab-i,Barab I,Outer Rim Territories,2.0,U,12.0,20.0,11.0,True
+bardelberan-7,Bardelberan 7,Mid Rim Territories,3.0,J,6.0,9.0,5.0,True
+bardotta,Bardotta,Colonies,4.0,K,13.0,10.0,12.0,True
+bar-leth,Bar'leth,Core Worlds,5.0,M,10.0,12.0,9.0,True
+bartokan-v,Bartokan V,Unknown,,,,,,False
+bastatha,Bastatha,Inner Rim Territories,,N,10.0,13.0,9.0,True
+basteel,Basteel,Outer Rim Territories,2.0,P,3.0,15.0,2.0,True
+bastion,Bastion,Outer Rim Territories,2.0,K,3.0,10.0,2.0,True
+batonn,Batonn,Outer Rim Territories,2.0,,,,,False
+batuu,Batuu,Outer Rim Territories,2.0,G,15.0,6.0,14.0,True
+batuv,Batuv,Expansion Region,3.0,P,12.0,15.0,11.0,True
+bavva,Bavva,Outer Rim Territories,2.0,,,,,False
+bedlam,Bedlam,Unknown,,,,,,False
+begamor,Begamor,Outer Rim Territories,2.0,M,5.0,12.0,4.0,True
+behpour,Behpour,Mid Rim Territories,3.0,,,,,False
+belderone,Belderone,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+bendeluum,Bendeluum,Outer Rim Territories,2.0,,,,,False
+benetage,Benetage,Outer Rim Territories,2.0,,,,,False
+benglor,Benglor,Unknown,,,,,,False
+bernilla,Bernilla,Inner Rim Territories,,L,14.0,11.0,13.0,True
+berzite,Berzite,Outer Rim Territories,2.0,U,8.0,20.0,7.0,True
+bespin,Bespin,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+bestine-iv,Bestine IV,Inner Rim Territories,,M,14.0,12.0,13.0,True
+bestoon,Bestoon,Unknown,,,,,,False
+bilzen,Bilzen,Unknown,,,,,,False
+birren,Birren,Inner Rim Territories,,O,10.0,14.0,9.0,True
+birukay,Birukay,Outer Rim Territories,2.0,,,,,False
+bith,Bith,Outer Rim Territories,2.0,M,18.0,12.0,17.0,True
+bleuf,Bleuf,Core Worlds,5.0,,,,,False
+blutopia,Blutopia,Expansion Region,3.0,K,16.0,10.0,15.0,True
+bogano,Bogano,Outer Rim Territories,2.0,N,3.0,13.0,2.0,True
+bora-vio,Bora Vio,Unknown,,,,,,False
+bormus,Bormus,Mid Rim Territories,3.0,,,,,False
+botajef,Botajef,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+bothawui,Bothawui,Mid Rim Territories,3.0,R,14.0,17.0,13.0,True
+botor,Botor,Core Worlds,5.0,K,12.0,10.0,11.0,True
+boz-pity,Boz Pity,Mid Rim Territories,3.0,S,9.0,18.0,8.0,True
+bracca,Bracca,Mid Rim Territories,3.0,P,9.0,15.0,8.0,True
+bray,Bray,Unknown,,,,,,False
+brentaal-iv,Brentaal IV,Core Worlds,5.0,L,9.0,11.0,8.0,True
+bri-n,Bri'n,Unknown,,,,,,False
+bromlarch,Bromlarch,Mid Rim Territories,3.0,,,,,False
+burnin-konn,Burnin Konn,Outer Rim Territories,2.0,,,,,False
+byss,Byss,Deep Core,5.0,K,11.0,10.0,10.0,True
+cabarria,Cabarria,Colonies,4.0,M,13.0,12.0,12.0,True
+cadomai-prime,Cadomai Prime,Outer Rim Territories,2.0,R,3.0,17.0,2.0,True
+calcoraan,Calcoraan,Inner Rim Territories,,,,,,False
+calior,Calior,Outer Rim Territories,2.0,,,,,False
+caloria,Caloria,Unknown,,,,,,False
+camson,Camson,Unknown,,,,,,False
+candovant,Candovant,Colonies,4.0,N,12.0,13.0,11.0,True
+cantonica,Cantonica,Outer Rim Territories,2.0,,,,,False
+caragon-viner,Caragon-Viner,Unknown,,,,,,False
+carajam,Carajam,Outer Rim Territories,2.0,,,,,False
+cardota,Cardota,Core Worlds,5.0,M,12.0,12.0,11.0,True
+carida,Carida,Colonies,4.0,M,9.0,12.0,8.0,True
+carlac,Carlac,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+carnelion-iv,Carnelion IV,Unknown,,,,,,False
+castell,Castell,Colonies,4.0,M,9.0,12.0,8.0,True
+castilon,Castilon,Mid Rim Territories,3.0,I,16.0,8.0,15.0,True
+catadra,Catadra,Deep Core,5.0,,,,,False
+cato-neimoidia,Cato Neimoidia,Colonies,4.0,N,11.0,13.0,10.0,True
+cavas,Cavas,Core Worlds,5.0,,,,,False
+celwis,Celwis,Unknown Regions,1.0,,,,,False
+cerea,Cerea,Mid Rim Territories,3.0,I,16.0,8.0,15.0,True
+cermau,Cermau,Outer Rim Territories,2.0,H,16.0,7.0,15.0,True
+cesai,CeSai,Unknown,,,,,,False
+chaaktil,Chaaktil,Inner Rim Territories,,L,14.0,11.0,13.0,True
+chad,Chad,Outer Rim Territories,2.0,R,7.0,17.0,6.0,True
+chadawa,Chadawa,Inner Rim Territories,,N,14.0,13.0,13.0,True
+chagar-ix,Chagar IX,Outer Rim Territories,2.0,O,19.0,14.0,18.0,True
+chal-hudda,Chal Hudda,Outer Rim Territories,2.0,,,,,False
+chalacta,Chalacta,Mid Rim Territories,3.0,R,10.0,17.0,9.0,True
+champala,Champala,Inner Rim Territories,,L,8.0,11.0,7.0,True
+chandar-s-folly,Chandar's Folly,Outer Rim Territories,2.0,J,20.0,9.0,19.0,True
+chandel,Chandel,Unknown,,,,,,False
+chandrila,Chandrila,Core Worlds,5.0,L,9.0,11.0,8.0,True
+charros-iv,Charros IV,"Outer Rim Territories,",,R,9.0,17.0,8.0,True
+chasmeene,Chasmeene,Unknown,,,,,,False
+chespea,Chespea,Unknown,,,,,,False
+chibbier,Chibbier,Outer Rim Territories,2.0,I,17.0,8.0,16.0,True
+cholganna,Cholganna,Outer Rim Territories,2.0,T,5.0,19.0,4.0,True
+chommell-minor,Chommell Minor,Mid Rim Territories,3.0,,,,,False
+chorin,Chorin,Unknown,,,,,,False
+choss,Choss,Unknown,,,,,,False
+christophsis,Christophsis,Outer Rim Territories,2.0,Q,16.0,16.0,15.0,True
+chrona,Chrona,Unknown,,,,,,False
+cianap,Cianap,Unknown,,,,,,False
+clerion,Clerion,Unknown,,,,,,False
+codia-i,Codia I,Mid Rim Territories,3.0,H,15.0,7.0,14.0,True
+colla-iv,Colla IV,Inner Rim Territories,,N,9.0,13.0,8.0,True
+colonial-station-camco,Colonial Station Camco,Unknown Regions,1.0,,,,,False
+commenor,Commenor,Colonies,4.0,N,10.0,13.0,9.0,True
+cona,Cona,Inner Rim Territories,,O,11.0,14.0,10.0,True
+concord-dawn,Concord Dawn,Outer Rim Territories,2.0,P,7.0,15.0,6.0,True
+the-contessa-s-homeworld,The Contessa's homeworld,Unknown,,,,,,False
+corellia,Corellia,Core Worlds,5.0,M,11.0,12.0,10.0,True
+corulag,Corulag,Core Worlds,5.0,L,9.0,11.0,8.0,True
+coruscant,Coruscant,Core Worlds,5.0,L,9.0,11.0,8.0,True
+corvus,Corvus,Outer Rim Territories,2.0,,,,,False
+cos-secundu,Cos Secundu,Deep Core,5.0,,,,,False
+cosia,Cosia,Deep Core,5.0,M,11.0,12.0,10.0,True
+cosmatanic-steppes-gas-giant,Cosmatanic Steppes gas giant,Outer Rim Territories,2.0,,,,,False
+council,Council,Outer Rim Territories,2.0,,,,,False
+courtsilius,Courtsilius,Core Worlds,5.0,M,12.0,12.0,11.0,True
+coyerti,Coyerti,Mid Rim Territories,3.0,,,,,False
+crait,Crait,Outer Rim Territories,2.0,N,17.0,13.0,16.0,True
+crucival,Crucival,Outer Rim Territories,2.0,S,6.0,18.0,5.0,True
+crul,Crul,Mid Rim Territories,3.0,,,,,False
+csilla,Csilla,Unknown Regions,1.0,F,8.0,5.0,7.0,True
+cuyacan,Cuyacan,Expansion Region,3.0,P,13.0,15.0,12.0,True
+cyclor,Cyclor,Mid Rim Territories,3.0,N,17.0,13.0,16.0,True
+cyphar,Cyphar,Mid Rim Territories,3.0,L,17.0,11.0,16.0,True
+cyrillia,Cyrillia,Expansion Region,3.0,O,12.0,14.0,11.0,True
+cyrkon,Cyrkon,Outer Rim Territories,2.0,T,13.0,19.0,12.0,True
+czerialus,Czerialus,Unknown,,,,,,False
+daghee,Daghee,Unknown,,,,,,False
+dagobah,Dagobah,Outer Rim Territories,2.0,M,19.0,12.0,18.0,True
+daivak,Daivak,Outer Rim Territories,2.0,,,,,False
+daiyu,Daiyu,Unknown,,,,,,False
+dallenor,Dallenor,Mid Rim Territories,3.0,,,,,False
+dalna,Dalna,Outer Rim Territories,2.0,I,19.0,8.0,18.0,True
+damanos,Damanos,Unknown,,,,,,False
+dandoran,Dandoran,Hutt Space,,,,,,False
+dantooine,Dantooine,Outer Rim Territories,2.0,L,4.0,11.0,3.0,True
+darlyn-boda,Darlyn Boda,Outer Rim Territories,2.0,,,,,False
+daro,Daro,Outer Rim Territories,2.0,N,6.0,13.0,5.0,True
+dasoor,Dasoor,Mid Rim Territories,3.0,,,,,False
+dathomir,Dathomir,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+davnar-ii,Davnar II,Core Worlds,5.0,K,9.0,10.0,8.0,True
+daxam-iv,Daxam IV,Outer Rim Territories,2.0,N,18.0,13.0,17.0,True
+daxan-beta,Daxan Beta,Unknown,,,,,,False
+the-deep,The Deep,Unknown Regions,1.0,,,,,False
+deko-neimoidia,Deko Neimoidia,Colonies,4.0,,,,,False
+delphon,Delphon,Outer Rim Territories,2.0,,,,,False
+delrian-prison-planet,Delrian Prison Planet,Unknown,,,,,,False
+demir,Demir,Unknown Regions,1.0,G,6.0,6.0,5.0,True
+denash,Denash,Outer Rim Territories,2.0,,,,,False
+denon,Denon,Inner Rim Territories,,N,13.0,13.0,12.0,True
+deris-plata,Deris-plata,Unknown,,,,,,False
+dermos,Dermos,Outer Rim Territories,2.0,,,,,False
+desinta,Desinta,Outer Rim Territories,2.0,,,,,False
+devalok,Devalok,Unknown,,,,,,False
+devaron,Devaron,Colonies,4.0,M,13.0,12.0,12.0,True
+dhandu,Dhandu,Expansion Region,3.0,I,8.0,8.0,7.0,True
+dianth,Dianth,Unknown,,,,,,False
+dinwa-prime,Dinwa Prime,Inner Rim Territories,,L,8.0,11.0,7.0,True
+dinzo,Dinzo,Mid Rim Territories,3.0,,,,,False
+distilon,Distilon,Unknown,,,,,,False
+dol-har-hyde,Dol'har Hyde,Outer Rim Territories,2.0,,,,,False
+donovia,Donovia,Unknown,,,,,,False
+dorin,Dorin,Expansion Region,3.0,J,8.0,9.0,7.0,True
+dotharian,Dotharian,Hutt Space,,S,12.0,18.0,11.0,True
+dowut,Dowut,Core Worlds,5.0,J,12.0,9.0,11.0,True
+d-qar,D'Qar,Outer Rim Territories,2.0,O,17.0,14.0,16.0,True
+drahgor-iii,Drahgor III,Outer Rim Territories,2.0,S,4.0,18.0,3.0,True
+durkteel,Durkteel,Mid Rim Territories,3.0,,,,,False
+duro,Duro,Core Worlds,5.0,M,11.0,12.0,10.0,True
+dwartii,Dwartii,Inner Rim Territories,,N,8.0,13.0,7.0,True
+dybbron-iii,Dybbron III,Unknown,,,,,,False
+dybrin,Dybrin,Deep Core,5.0,L,12.0,11.0,11.0,True
+eadu,Eadu,Outer Rim Territories,2.0,U,10.0,20.0,9.0,True
+earth,Earth,Outer Rim Territories,2.0,,,,,False
+edis-vii,Edis VII,Unknown,,,,,,False
+egips,Egips,Unknown,,,,,,False
+eiram,Eiram,Outer Rim Territories,2.0,,,,,False
+elkeenar,Elkeenar,Outer Rim Territories,2.0,,,,,False
+elom,Elom,Outer Rim Territories,2.0,R,5.0,17.0,4.0,True
+elphrona,Elphrona,Outer Rim Territories,2.0,I,17.0,8.0,16.0,True
+empress-teta,Empress Teta,Deep Core,5.0,L,10.0,11.0,9.0,True
+endor,Endor,Outer Rim Territories,2.0,H,16.0,7.0,15.0,True
+ephemera,Ephemera,Inner Rim Territories,,J,14.0,9.0,13.0,True
+epiphany,Epiphany,Outer Rim Territories,2.0,R,3.0,17.0,2.0,True
+eriadu,Eriadu,Outer Rim Territories,2.0,M,18.0,12.0,17.0,True
+er-kit,Er'Kit,Outer Rim Territories,2.0,M,6.0,12.0,5.0,True
+e-ronoh,E'ronoh,Outer Rim Territories,2.0,I,19.0,8.0,18.0,True
+eroudac,Eroudac,Mid Rim Territories,3.0,P,15.0,15.0,14.0,True
+ertegas,Ertegas,Outer Rim Territories,2.0,,,,,False
+escarte,Escarte,Unknown,,,,,,False
+eshan,Eshan,Unknown,,,,,,False
+espinar,Espinar,Core Worlds,5.0,K,9.0,10.0,8.0,True
+espirion,Espirion,Inner Rim Territories,,N,12.0,13.0,11.0,True
+esseles,Esseles,Unknown,,,,,,False
+etai,Etai,Mid Rim Territories,3.0,,,,,False
+etti-iv,Etti IV,Unknown,,,,,,False
+eufornis-major,Eufornis Major,Core Worlds,5.0,,,,,False
+eufornis-minor,Eufornis Minor,Outer Rim Territories,2.0,,,,,False
+everon,Everon,Unknown,,,,,,False
+exegol,Exegol,Unknown Regions,1.0,F,7.0,5.0,6.0,True
+ezaraa,Ezaraa,Unknown,,,,,,False
+falleen,Falleen,Mid Rim Territories,3.0,P,15.0,15.0,14.0,True
+farana,Farana,Wild Space,1.0,S,3.0,18.0,2.0,True
+farhava-beta,Farhava Beta,Unknown,,,,,,False
+fedalle,Fedalle,Core Worlds,5.0,M,10.0,12.0,9.0,True
+fedovoi-end,Fedovoi End,Unknown,,M,14.0,12.0,13.0,True
+feenix,Feenix,Unknown,,,,,,False
+felucia,Felucia,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+fermic,Fermic,Outer Rim Territories,2.0,,,,,False
+ferrix,Ferrix,Unknown,,,,,,False
+fest,Fest,Outer Rim Territories,2.0,,,,,False
+fillithar,Fillithar,Unknown,,,,,,False
+florrum,Florrum,Outer Rim Territories,2.0,R,5.0,17.0,4.0,True
+fondor,Fondor,Colonies,4.0,L,13.0,11.0,12.0,True
+foran-tutha,Foran Tutha,Outer Rim Territories,2.0,,,,,False
+forrn,Forrn,Unknown,,,,,,False
+freerock,Freerock,Outer Rim Territories,2.0,H,13.0,7.0,12.0,True
+fresia,Fresia,Unknown,,,,,,False
+frezno,Frezno,Unknown,,,,,,False
+frong,Frong,Outer Rim Territories,2.0,,,,,False
+gaaten,Gaaten,Unknown,,,,,,False
+gabdor,Gabdor,Unknown,,,,,,False
+gabredor-iii,Gabredor III,Unknown,,,,,,False
+galaan,Galaan,Outer Rim Territories,2.0,P,4.0,15.0,3.0,True
+galagolos-v,Galagolos V,Colonies,4.0,J,9.0,9.0,8.0,True
+galator-iii,Galator III,Unknown,,,,,,False
+galdi,Galdi,Unknown,,,,,,False
+galidraan,Galidraan,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+galidraan-iii,Galidraan III,Outer Rim Territories,2.0,,,,,False
+galidraan-iv,Galidraan IV,Outer Rim Territories,2.0,,,,,False
+galmerah,Galmerah,Unknown,,,,,,False
+galpos-ii,Galpos II,Unknown,,,,,,False
+galzez,Galzez,Unknown,,,,,,False
+gamerong,Gamerong,Unknown,,,,,,False
+gamorr,Gamorr,Outer Rim Territories,2.0,T,14.0,19.0,13.0,True
+gan-moradir,Gan Moradir,Mid Rim Territories,3.0,,,,,False
+gand,Gand,Outer Rim Territories,2.0,T,8.0,19.0,7.0,True
+gannaria,Gannaria,Outer Rim Territories,2.0,H,15.0,7.0,14.0,True
+ganthel,Ganthel,Core Worlds,5.0,L,9.0,11.0,8.0,True
+garel,Garel,Outer Rim Territories,2.0,U,7.0,20.0,6.0,True
+gargon,Gargon,Unknown,,,,,,False
+gatalenta,Gatalenta,Core Worlds,5.0,M,10.0,12.0,9.0,True
+gazian,Gazian,Mid Rim Territories,3.0,,,,,False
+gentes,Gentes,Outer Rim Territories,2.0,,,,,False
+geonosis,Geonosis,Outer Rim Territories,2.0,R,16.0,17.0,15.0,True
+geptish,Geptish,Unknown,,,,,,False
+gerrenthum,Gerrenthum,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+gesaral-beta,Gesaral Beta,Unknown,,,,,,False
+gh-531,GH-531,Unknown Regions,1.0,,,,,False
+ghorman,Ghorman,Colonies,4.0,L,13.0,11.0,12.0,True
+giermos,Giermos,Unknown,,,,,,False
+gigor,Gigor,Outer Rim Territories,2.0,R,4.0,17.0,3.0,True
+giju,Giju,Colonies,4.0,L,13.0,11.0,12.0,True
+gilvaanen,Gilvaanen,Inner Rim Territories,,,,,,False
+glee-anselm,Glee Anselm,Mid Rim Territories,3.0,J,7.0,9.0,6.0,True
+gloam,Gloam,Unknown,,,,,,False
+gonda,Gonda,Outer Rim Territories,2.0,N,18.0,13.0,17.0,True
+gorse,Gorse,Inner Rim Territories,,O,10.0,14.0,9.0,True
+gossam,Gossam,Unknown,,,,,,False
+graf-world,Graf-World,Wild Space,1.0,,,,,False
+grange,Grange,Mid Rim Territories,3.0,Q,11.0,16.0,10.0,True
+gravlex-med,Gravlex Med,Outer Rim Territories,2.0,L,4.0,11.0,3.0,True
+grizmallt,Grizmallt,Core Worlds,5.0,,,,,False
+guagenia,Guagenia,Inner Rim Territories,,J,14.0,9.0,13.0,True
+guat-a,Guat'a,Outer Rim Territories,2.0,P,19.0,15.0,18.0,True
+guhl-jo387o,GUHL-JO387O,Outer Rim Territories,2.0,,,,,False
+gulhadar,Gulhadar,Unknown,,,,,,False
+gutretee,Gutretee,Outer Rim Territories,2.0,,,,,False
+gwongdeen,Gwongdeen,Colonies,4.0,J,9.0,9.0,8.0,True
+gyndine,Gyndine,Expansion Region,3.0,O,12.0,14.0,11.0,True
+hadros,Hadros,Outer Rim Territories,2.0,,,,,False
+haidoral-prime,Haidoral Prime,Mid Rim Territories,3.0,R,10.0,17.0,9.0,True
+haileap,Haileap,Outer Rim Territories,2.0,,,,,False
+halcyon,Halcyon,Colonies,4.0,,,,,False
+haneli,Haneli,Expansion Region,3.0,,,,,False
+harkrova-i,Harkrova I,Unknown,,N,9.0,13.0,8.0,True
+harloff-minor,Harloff Minor,Core Worlds,5.0,,,,,False
+haruun-kal,Haruun Kal,Mid Rim Territories,3.0,M,17.0,12.0,16.0,True
+hays-major,Hays Major,Outer Rim Territories,2.0,K,6.0,10.0,5.0,True
+hays-minor,Hays Minor,Outer Rim Territories,2.0,K,6.0,10.0,5.0,True
+hebekrr-major,Hebekrr Major,Outer Rim Territories,2.0,N,7.0,13.0,6.0,True
+hebekrr-minor,Hebekrr Minor,Outer Rim Territories,2.0,N,7.0,13.0,6.0,True
+hetzal-prime,Hetzal Prime,Outer Rim Territories,2.0,Q,16.0,16.0,15.0,True
+hevurion,Hevurion,Inner Rim Territories,,L,8.0,11.0,7.0,True
+hinari,Hinari,Outer Rim Territories,2.0,,,,,False
+hindle,Hindle,Core Worlds,5.0,,,,,False
+hirara,Hirara,Outer Rim Territories,2.0,,,,,False
+hisseen,Hisseen,Mid Rim Territories,3.0,R,15.0,17.0,14.0,True
+hissrich,Hissrich,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+hofsgut,Hofsgut,Unknown,,,,,,False
+horuz,Horuz,Outer Rim Territories,2.0,L,5.0,11.0,4.0,True
+hosnian,Hosnian,Core Worlds,5.0,M,12.0,12.0,11.0,True
+hosnian-prime,Hosnian Prime,Core Worlds,5.0,M,12.0,12.0,11.0,True
+hosra,Hosra,Outer Rim Territories,2.0,,,,,False
+hoth,Hoth,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+hovun-iv,Hovun IV,Expansion Region,3.0,P,13.0,15.0,12.0,True
+hoxim,Hoxim,Unknown Regions,1.0,,,,,False
+hudalla,Hudalla,Unknown,,,,,,False
+huk,Huk,Wild Space,1.0,J,4.0,9.0,3.0,True
+humbarine,Humbarine,Core Worlds,5.0,M,10.0,12.0,9.0,True
+hynestia-prime,Hynestia Prime,Colonies,4.0,J,13.0,9.0,12.0,True
+hyperkarn,Hyperkarn,Outer Rim Territories,2.0,,,,,False
+hypori,Hypori,Outer Rim Territories,2.0,S,16.0,18.0,15.0,True
+iakar,Iakar,Outer Rim Territories,2.0,N,20.0,13.0,19.0,True
+ibaar,Ibaar,Outer Rim Territories,2.0,T,8.0,19.0,7.0,True
+iego,Iego,Outer Rim Territories,2.0,T,7.0,19.0,6.0,True
+ikkrukk,Ikkrukk,Mid Rim Territories,3.0,P,17.0,15.0,16.0,True
+iktotchon,Iktotchon,Expansion Region,3.0,O,14.0,14.0,13.0,True
+iloh,Iloh,Inner Rim Territories,,N,9.0,13.0,8.0,True
+ilum,Ilum,Unknown Regions,1.0,G,7.0,6.0,6.0,True
+imroosia,Imroosia,Inner Rim Territories,,N,9.0,13.0,8.0,True
+imvur,Imvur,Unknown,,,,,,False
+indoumodo,Indoumodo,Wild Space,1.0,,,,,False
+insk,Insk,Unknown,,,,,,False
+inusagi,Inusagi,Mid Rim Territories,3.0,O,16.0,14.0,15.0,True
+ione,Ione,Outer Rim Territories,2.0,,,,,False
+irff,Irff,Unknown,,,,,,False
+iridonia,Iridonia,Mid Rim Territories,3.0,J,7.0,9.0,6.0,True
+irudiru,Irudiru,Wild Space,1.0,S,4.0,18.0,3.0,True
+isde-naha,Isde Naha,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+iskalon,Iskalon,Mid Rim Territories,3.0,R,16.0,17.0,15.0,True
+isobe,Isobe,Expansion Region,3.0,O,7.0,14.0,6.0,True
+ison,Ison,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+itapi-prime,Itapi Prime,Unknown,,,,,,False
+ithor,Ithor,Mid Rim Territories,3.0,M,6.0,12.0,5.0,True
+itzeho,Itzeho,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+ivarujar,Ivarujar,Expansion Region,3.0,K,15.0,10.0,14.0,True
+ivera-x,Ivera X,Unknown,,,,,,False
+i-vorcia-prime,I'vorcia Prime,Outer Rim Territories,2.0,O,4.0,14.0,3.0,True
+ixilix,Ixilix,Unknown,,,,,,False
+jabiim,Jabiim,Outer Rim Territories,2.0,S,7.0,18.0,6.0,True
+jaelen,Jaelen,Unknown,,,,,,False
+jafan,Jafan,Mid Rim Territories,3.0,,,,,False
+jaguada,Jaguada,Unknown,,,,,,False
+jakku,Jakku,Inner Rim Territories,,I,13.0,8.0,12.0,True
+jalindi,Jalindi,Outer Rim Territories,2.0,P,6.0,15.0,5.0,True
+jamiron,Jamiron,Unknown Regions,1.0,,,,,False
+janx-ii,Janx II,Unknown,,,,,,False
+japeal,Japeal,Galactic Frontier,,,,,,False
+jarbanov,Jarbanov,Expansion Region,3.0,P,11.0,15.0,10.0,True
+jaresh,Jaresh,Outer Rim Territories,2.0,P,4.0,15.0,3.0,True
+jaymir,Jaymir,Unknown,,,,,,False
+jekara,Jekara,Mid Rim Territories,3.0,R,7.0,17.0,6.0,True
+jelucan,Jelucan,Outer Rim Territories,2.0,Q,4.0,16.0,3.0,True
+jeosyn,Jeosyn,Outer Rim Territories,2.0,N,6.0,13.0,5.0,True
+jereth-vi,Jereth VI,Unknown,,,,,,False
+jestefad,Jestefad,Outer Rim Territories,2.0,L,19.0,11.0,18.0,True
+jeyell,Jeyell,Mid Rim Territories,3.0,,,,,False
+jhas,Jhas,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+jiruus,Jiruus,Unknown,,,,,,False
+judakann,Judakann,Outer Rim Territories,2.0,,,,,False
+k43,K43,Wild Space,1.0,,,,,False
+kalarba,Kalarba,Mid Rim Territories,3.0,P,15.0,15.0,14.0,True
+kadavo,Kadavo,Wild Space,1.0,,,,,False
+kaddak,Kaddak,Outer Rim Territories,2.0,T,14.0,19.0,13.0,True
+kalee,Kalee,Wild Space,1.0,J,4.0,9.0,3.0,True
+kalevala,Kalevala,Outer Rim Territories,2.0,O,7.0,14.0,6.0,True
+kalist-vi,Kalist VI,Deep Core,5.0,K,12.0,10.0,11.0,True
+kaller,Kaller,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+kal-shebbol,Kal'Shebbol,Outer Rim Territories,2.0,M,21.0,12.0,20.0,True
+kamino,Kamino,Extragalactic,,,,,,False
+kanzi,Kanzi,Unknown,,,,,,False
+kardoa,Kardoa,Outer Rim Territories,2.0,L,5.0,11.0,4.0,True
+karfeddion,Karfeddion,Mid Rim Territories,3.0,L,18.0,11.0,17.0,True
+karkaris,Karkaris,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+karlinus,Karlinus,Mid Rim Territories,3.0,,,,,False
+karolia,Karolia,Outer Rim Territories,2.0,,,,,False
+kashyyyk,Kashyyyk,Mid Rim Territories,3.0,P,9.0,15.0,8.0,True
+keitum,Keitum,Mid Rim Territories,3.0,J,6.0,9.0,5.0,True
+kellux,Kellux,Unknown,,,,,,False
+kenari,Kenari,Mid Rim Territories,3.0,,,,,False
+kerev-doi,Kerev Doi,Expansion Region,3.0,O,12.0,14.0,11.0,True
+kergans,Kergans,Unknown,,,,,,False
+kerkoidia,Kerkoidia,Expansion Region,3.0,N,15.0,13.0,14.0,True
+kessel,Kessel,Outer Rim Territories,2.0,T,10.0,19.0,9.0,True
+kethmandi,Kethmandi,Unknown,,,,,,False
+ketzali,Ketzali,Mid Rim Territories,3.0,R,13.0,17.0,12.0,True
+khomm,Khomm,Deep Core,5.0,L,12.0,11.0,11.0,True
+kidron,Kidron,Unknown,,,,,,False
+kiffex,Kiffex,Inner Rim Territories,,L,14.0,11.0,13.0,True
+kiffu,Kiffu,Inner Rim Territories,,L,14.0,11.0,13.0,True
+kijimi,Kijimi,Mid Rim Territories,3.0,R,8.0,17.0,7.0,True
+kinoss,Kinoss,Unknown Regions,1.0,,,,,False
+kinrah,Kinrah,Unknown,,,,,,False
+kintan,Kintan,Outer Rim Territories,2.0,S,9.0,18.0,8.0,True
+kintoni,Kintoni,Outer Rim Territories,2.0,,,,,False
+kinyen,Kinyen,Expansion Region,3.0,L,15.0,11.0,14.0,True
+kirdo-iii,Kirdo III,Outer Rim Territories,2.0,N,19.0,13.0,18.0,True
+kirima,Kirima,Mid Rim Territories,3.0,J,17.0,9.0,16.0,True
+kiros,Kiros,Expansion Region,3.0,,,,,False
+kirtarkin,Kirtarkin,Outer Rim Territories,2.0,,,,,False
+kizan,Kizan,Unknown,,,,,,False
+klatooine,Klatooine,Outer Rim Territories,2.0,S,9.0,18.0,8.0,True
+klonoid,Klonoid,Unknown,,,,,,False
+klytus-v,Klytus V,Wild Space,1.0,H,15.0,7.0,14.0,True
+kol-iben,Kol Iben,Outer Rim Territories,2.0,,,,,False
+konkiv,Konkiv,Unknown,,,,,,False
+kooriva,Kooriva,Inner Rim Territories,,M,14.0,12.0,13.0,True
+koorivar-homeworld,Koorivar homeworld,Unknown,,,,,,False
+korrilan-iv,Korrilan IV,Unknown,,,,,,False
+kortatka,Kortatka,Unknown,,,,,,False
+koru-neimoidia,Koru Neimoidia,Colonies,4.0,,,,,False
+koshaga,Koshaga,Unknown,,,,,,False
+kotab,Kotab,Unknown,,,,,,False
+kowak,Kowak,Outer Rim Territories,2.0,S,16.0,18.0,15.0,True
+kreeling,Kreeling,Mid Rim Territories,3.0,,,,,False
+kril-dor,Kril'Dor,Mid Rim Territories,3.0,I,7.0,8.0,6.0,True
+krownest,Krownest,Outer Rim Territories,2.0,P,7.0,15.0,6.0,True
+krystar,Krystar,Unknown,,,,,,False
+ktath-atn,Ktath'atn,Outer Rim Territories,2.0,M,4.0,12.0,3.0,True
+kuat,Kuat,Core Worlds,5.0,M,10.0,12.0,9.0,True
+kubindi,Kubindi,Outer Rim Territories,2.0,T,9.0,19.0,8.0,True
+kudo,Kudo,Inner Rim Territories,,K,14.0,10.0,13.0,True
+kullgroon,Kullgroon,Expansion Region,3.0,P,12.0,15.0,11.0,True
+kupoh,Kupoh,Mid Rim Territories,3.0,R,13.0,17.0,12.0,True
+lafete,Lafete,Unknown,,,,,,False
+lah-mu,Lah'mu,Outer Rim Territories,2.0,L,3.0,11.0,2.0,True
+lahn,Lahn,Outer Rim Territories,2.0,,,,,False
+langston,Langston,Unknown,,,,,,False
+lannik,Lannik,Mid Rim Territories,3.0,R,13.0,17.0,12.0,True
+lanteeb,Lanteeb,Unknown,,,,,,False
+lanz-carpo,Lanz Carpo,Core Worlds,5.0,M,11.0,12.0,10.0,True
+lasan,Lasan,Outer Rim Territories,2.0,,,,,False
+lateron,Lateron,Mid Rim Territories,3.0,,,,,False
+lechra,Lechra,Unknown,,,,,,False
+ledalau,Ledalau,Unknown,,,,,,False
+lefrani,Lefrani,Outer Rim Territories,2.0,L,19.0,11.0,18.0,True
+lenahra,Lenahra,Unknown Regions,1.0,,,,,False
+leoxo,Leoxo,Unknown,,,,,,False
+lespectus,Lespectus,Core Worlds,5.0,M,10.0,12.0,9.0,True
+lew-el,Lew'el,Unknown,,,,,,False
+lexrul,Lexrul,Mid Rim Territories,3.0,,,,,False
+lioaoin-heartworld,Lioaoin heartworld,Unknown Regions,1.0,,,,,False
+lira-san,Lira San,Wild Space,1.0,O,20.0,14.0,19.0,True
+li-toran,Li-Toran,Inner Rim Territories,,M,13.0,12.0,12.0,True
+livno-iii,Livno III,Wild Space,1.0,J,21.0,9.0,20.0,True
+llanic,Llanic,Outer Rim Territories,2.0,Q,16.0,16.0,15.0,True
+lokori,Lokori,Unknown,,,,,,False
+lola-sayu,Lola Sayu,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+lolet,Lolet,Unknown,,,,,,False
+lonera,Lonera,Inner Rim Territories,,N,12.0,13.0,11.0,True
+loreth,Loreth,Galactic Frontier,,,,,,False
+lothal,Lothal,Outer Rim Territories,2.0,U,7.0,20.0,6.0,True
+lotho-minor,Lotho Minor,Outer Rim Territories,2.0,I,17.0,8.0,16.0,True
+lowik,Lowik,Unknown,,,,,,False
+luprora,Luprora,Unknown,,,,,,False
+lutrillia,Lutrillia,Outer Rim Territories,2.0,J,18.0,9.0,17.0,True
+lysatra,Lysatra,Expansion Region,3.0,I,8.0,8.0,7.0,True
+maher,Maher,Unknown Regions,1.0,G,7.0,6.0,6.0,True
+mahranee,Mahranee,Mid Rim Territories,3.0,P,8.0,15.0,7.0,True
+malachor,Malachor,Outer Rim Territories,2.0,S,4.0,18.0,3.0,True
+malastare,Malastare,Mid Rim Territories,3.0,N,16.0,13.0,15.0,True
+malathon-ix,Malathon IX,Expansion Region,3.0,,,,,False
+maldo-kreis,Maldo Kreis,Unknown,,,,,,False
+malenko,Malenko,Unknown,,,,,,False
+malian,Malian,Western Reaches,,,,,,False
+malpaz,Malpaz,Unknown,,,,,,False
+manaan,Manaan,Inner Rim Territories,,O,11.0,14.0,10.0,True
+mandalore,Mandalore,Outer Rim Territories,2.0,O,7.0,14.0,6.0,True
+mannius-eight,Mannius Eight,Wild Space,1.0,,,,,False
+manpha,Manpha,Outer Rim Territories,2.0,K,20.0,10.0,19.0,True
+manress,Manress,Inner Rim Territories,,,,,,False
+mapuzo,Mapuzo,Mid Rim Territories,3.0,,,,,False
+marca,Marca,Unknown,,,,,,False
+mardona-iii,Mardona III,Inner Rim Territories,,N,13.0,13.0,12.0,True
+maridun,Maridun,Outer Rim Territories,2.0,Q,6.0,16.0,5.0,True
+marleyvane,Marleyvane,Outer Rim Territories,2.0,T,8.0,19.0,7.0,True
+maryx-minor,Maryx Minor,Outer Rim Territories,2.0,O,19.0,14.0,18.0,True
+massoss,Massoss,Unknown Regions,1.0,,,,,False
+mataou,Mataou,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+mathas,Mathas,Unknown,,,,,,False
+mearalis-ii,Mearalis II,Outer Rim Territories,2.0,,,,,False
+megalox-beta,Megalox Beta,Expansion Region,3.0,L,15.0,11.0,14.0,True
+mek-tradi,Mek'tradi,Unknown,,,,,,False
+merj,Merj,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+merokia,Merokia,Outer Rim Territories,2.0,J,18.0,9.0,17.0,True
+metellos,Metellos,Core Worlds,5.0,,,,,False
+mexeluine,Mexeluine,Outer Rim Territories,2.0,,,,,False
+midarr,Midarr,Unknown,,,,,,False
+mijos,Mijos,Outer Rim Territories,2.0,,,,,False
+mikkia,Mikkia,Expansion Region,3.0,M,7.0,12.0,6.0,True
+milvayne,Milvayne,Inner Rim Territories,,L,8.0,11.0,7.0,True
+mimban,Mimban,Expansion Region,3.0,O,12.0,14.0,11.0,True
+minfar,Minfar,Inner Rim Territories,,I,13.0,8.0,12.0,True
+minntooine,Minntooine,Unknown,,,,,,False
+mirial,Mirial,Outer Rim Territories,2.0,Q,4.0,16.0,3.0,True
+mirrin-prime,Mirrin Prime,Outer Rim Territories,2.0,P,5.0,15.0,4.0,True
+miser,Miser,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+mokivj,Mokivj,Outer Rim Territories,2.0,G,16.0,6.0,15.0,True
+moldour,Moldour,Outer Rim Territories,2.0,,,,,False
+molos,Molos,Unknown,,,,,,False
+mon-cala,Mon Cala,Outer Rim Territories,2.0,U,6.0,20.0,5.0,True
+mon-gazza,Mon Gazza,Mid Rim Territories,3.0,Q,16.0,16.0,15.0,True
+monta,Monta,Unknown,,,,,,False
+montross,Montross,Mid Rim Territories,3.0,P,8.0,15.0,7.0,True
+mooga,Mooga,Mid Rim Territories,3.0,Q,7.0,16.0,6.0,True
+moorja,Moorja,Unknown,,,,,,False
+moraband,Moraband,Outer Rim Territories,2.0,R,5.0,17.0,4.0,True
+moraga,Moraga,Unknown,,,,,,False
+morak,Morak,Unknown,,,,,,False
+morellia,Morellia,Unknown,,,,,,False
+morlana-one,Morlana One,Unknown,,,,,,False
+mountain,Mountain,Outer Rim Territories,2.0,,,,,False
+mrinzebon,Mrinzebon,Unknown,,,,,,False
+mulita,Mulita,Wild Space,1.0,H,19.0,7.0,18.0,True
+murkhana,Murkhana,Outer Rim Territories,2.0,S,6.0,18.0,5.0,True
+mustafar,Mustafar,Outer Rim Territories,2.0,L,19.0,11.0,18.0,True
+muunilinst,Muunilinst,Outer Rim Territories,2.0,K,4.0,10.0,3.0,True
+mydasos,Mydasos,Unknown,,,,,,False
+mygeeto,Mygeeto,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+mykapo,Mykapo,Outer Rim Territories,2.0,T,7.0,19.0,6.0,True
+myomar,Myomar,Expansion Region,3.0,,,,,False
+naalol,Naalol,Unknown,,L,17.0,11.0,16.0,True
+naator,Naator,Mid Rim Territories,3.0,,,,,False
+naboo,Naboo,Mid Rim Territories,3.0,O,17.0,14.0,16.0,True
+nacronis,Nacronis,Mid Rim Territories,3.0,M,7.0,12.0,6.0,True
+nag-ubdur,Nag Ubdur,Outer Rim Territories,2.0,P,7.0,15.0,6.0,True
+najan-rovi,Najan-Rovi,Mid Rim Territories,3.0,M,17.0,12.0,16.0,True
+najedha,NaJedha,Mid Rim Territories,3.0,H,10.0,7.0,9.0,True
+najiba,Najiba,Unknown,,,,,,False
+najra-va,Najra-Va,Unknown Regions,1.0,H,7.0,7.0,6.0,True
+nakadia,Nakadia,Expansion Region,3.0,M,15.0,12.0,14.0,True
+nal-hutta,Nal Hutta,Outer Rim Territories,2.0,S,12.0,18.0,11.0,True
+nam-chorios,Nam Chorios,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+nanth-ri,Nanth'ri,Mid Rim Territories,3.0,Q,12.0,16.0,11.0,True
+naporar,Naporar,Unknown,,,,,,False
+nar-kanji,Nar Kanji,Outer Rim Territories,2.0,,,,,False
+naraka,Naraka,Outer Rim Territories,2.0,S,7.0,18.0,6.0,True
+narq,Narq,Colonies,4.0,N,11.0,13.0,10.0,True
+navlaas,Navlaas,Inner Rim Territories,,,,,,False
+necropolis,Necropolis,Outer Rim Territories,2.0,H,16.0,7.0,15.0,True
+neelanon,Neelanon,Unknown,,,,,,False
+neftali,Neftali,Outer Rim Territories,2.0,,,,,False
+neimoidia,Neimoidia,Colonies,4.0,N,10.0,13.0,9.0,True
+nelgenam,Nelgenam,Unknown,,,,,,False
+nelvaan,Nelvaan,Outer Rim Territories,2.0,Q,16.0,16.0,15.0,True
+nepotis,Nepotis,Outer Rim Territories,2.0,T,9.0,19.0,8.0,True
+neral,Neral,Core Worlds,5.0,,,,,False
+neralus,Neralus,Outer Rim Territories,2.0,,,,,False
+neskar,Neskar,Unknown,,,,,,False
+netalych,Netalych,Inner Rim Territories,,N,14.0,13.0,13.0,True
+nettehi,Nettehi,Unknown Regions,1.0,,,,,False
+nevarro,Nevarro,Outer Rim Territories,2.0,J,19.0,9.0,18.0,True
+nimban,Nimban,Hutt Space,,S,10.0,18.0,9.0,True
+ningoth,Ningoth,Unknown,,,,,,False
+nixus,Nixus,Unknown,,P,18.0,15.0,17.0,True
+nixus,Nixus,Outer Rim Territories,2.0,,,,,False
+noctu,Noctu,Colonies,4.0,J,13.0,9.0,12.0,True
+nooroyo,Nooroyo,Unknown,,,,,,False
+nordis-prime,Nordis Prime,Mid Rim Territories,3.0,,,,,False
+norulac,Norulac,Unknown,,,,,,False
+nothoiin,Nothoiin,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+noult,Noult,Unknown,,,,,,False
+numidian-prime,Numidian Prime,Mid Rim Territories,3.0,L,7.0,11.0,6.0,True
+nyriaan,Nyriaan,Unknown,,,,,,False
+n-zoth,N'Zoth,Core Worlds,5.0,K,10.0,10.0,9.0,True
+oba-diah,Oba Diah,Outer Rim Territories,2.0,T,10.0,19.0,9.0,True
+obroa-skai,Obroa-skai,Inner Rim Territories,,N,8.0,13.0,7.0,True
+ocahont,Ocahont,Unknown,,,,,,False
+odona,Odona,Outer Rim Territories,2.0,Q,17.0,16.0,16.0,True
+ogem,Ogem,Mid Rim Territories,3.0,L,17.0,11.0,16.0,True
+ojom,Ojom,Deep Core,5.0,M,11.0,12.0,10.0,True
+oktaro,Oktaro,Unknown,,,,,,False
+oliu,Oliu,Unknown,,,,,,False
+omereth,Omereth,Outer Rim Territories,2.0,U,13.0,20.0,12.0,True
+onderon,Onderon,Inner Rim Territories,,O,9.0,14.0,8.0,True
+onod-i,Onod I,Mid Rim Territories,3.0,K,17.0,10.0,16.0,True
+ontotho,Ontotho,Unknown,,,,,,False
+ool,Ool,Unknown Regions,1.0,,,,,False
+oon,Oon,Outer Rim Territories,2.0,,,,,False
+oosalon,Oosalon,Outer Rim Territories,2.0,U,12.0,20.0,11.0,True
+orchis,Orchis,Inner Rim Territories,,N,8.0,13.0,7.0,True
+ord-cestus,Ord Cestus,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+ord-mantell,Ord Mantell,Mid Rim Territories,3.0,L,7.0,11.0,6.0,True
+ord-mynock,Ord Mynock,Unknown,,,,,,False
+ord-pardron,Ord Pardron,Mid Rim Territories,3.0,R,15.0,17.0,14.0,True
+ord-tiddell,Ord Tiddell,Mid Rim Territories,3.0,,,,,False
+ordo,Ordo,Unknown,,,,,,False
+orish,Orish,Outer Rim Territories,2.0,M,17.0,12.0,16.0,True
+ornfra,Ornfra,Unknown Regions,1.0,,,,,False
+orn-kios,Orn Kios,Outer Rim Territories,2.0,,,,,False
+orondia,Orondia,Unknown,,,,,,False
+orra,Orra,Unknown,,,,,,False
+orto,Orto,Outer Rim Territories,2.0,,,,,False
+orto-plutonia,Orto Plutonia,Outer Rim Territories,2.0,P,19.0,15.0,18.0,True
+oru,Oru,Outer Rim Territories,2.0,L,3.0,11.0,2.0,True
+oshira,Oshira,Mid Rim Territories,3.0,O,16.0,14.0,15.0,True
+osseriton,Osseriton,Unknown Regions,1.0,G,9.0,6.0,8.0,True
+ossus,Ossus,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+oulanne,Oulanne,Inner Rim Territories,,L,14.0,11.0,13.0,True
+ovanis,Ovanis,Outer Rim Territories,2.0,G,16.0,6.0,15.0,True
+pacara,Pacara,Mid Rim Territories,3.0,J,14.0,9.0,13.0,True
+pagodon,Pagodon,Outer Rim Territories,2.0,,,,,False
+pamarthe,Pamarthe,Outer Rim Territories,2.0,N,18.0,13.0,17.0,True
+pam-ba,Pam'ba,Mid Rim Territories,3.0,H,15.0,7.0,14.0,True
+pandem-nai,Pandem Nai,Outer Rim Territories,2.0,P,6.0,15.0,5.0,True
+panisia,Panisia,Outer Rim Territories,2.0,,,,,False
+panna,Panna,Outer Rim Territories,2.0,S,6.0,18.0,5.0,True
+parau-vi,Parau VI,Mid Rim Territories,3.0,,,,,False
+parein-ii,Parein II,Unknown,,,,,,False
+parnassos,Parnassos,Unknown Regions,1.0,H,6.0,7.0,5.0,True
+parwa,Parwa,Unknown,,,,,,False
+pasaana,Pasaana,Expansion Region,3.0,O,13.0,14.0,12.0,True
+pasher,Pasher,Inner Rim Territories,,M,14.0,12.0,13.0,True
+pastoria,Pastoria,Outer Rim Territories,2.0,P,17.0,15.0,16.0,True
+patitite-pattuna,Patitite Pattuna,Mid Rim Territories,3.0,,,,,False
+patrolia,Patrolia,Unknown,,L,14.0,11.0,13.0,True
+paucris-major,Paucris Major,Unknown,,,,,,False
+pendarr-iii,Pendarr III,Unknown,,,,,,False
+pergoomi,Pergoomi,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+perimako-major,Perimako Major,Unknown,,,,,,False
+persis-ix,Persis IX,Expansion Region,3.0,L,15.0,11.0,14.0,True
+petrusia,Petrusia,Expansion Region,3.0,P,12.0,15.0,11.0,True
+phateem,Phateem,Inner Rim Territories,,,,,,False
+phatrong,Phatrong,Outer Rim Territories,2.0,P,6.0,15.0,5.0,True
+pheryon,Pheryon,Inner Rim Territories,,J,8.0,9.0,7.0,True
+philaxia,Philaxia,Unknown,,,,,,False
+phindar,Phindar,Outer Rim Territories,2.0,P,6.0,15.0,5.0,True
+phorsa-gedd,Phorsa Gedd,Mid Rim Territories,3.0,,,,,False
+pii,Pii,Unknown,,,,,,False
+pijal,Pijal,Inner Rim Territories,,,,,,False
+pillio,Pillio,Core Worlds,5.0,,,,,False
+pion,Pion,Wild Space,1.0,,,,,False
+pipada,Pipada,Outer Rim Territories,2.0,M,18.0,12.0,17.0,True
+pippip-3,Pippip 3,Outer Rim Territories,2.0,Q,4.0,16.0,3.0,True
+planet-x,Planet X,Unknown,,,,,,False
+pleknok,Pleknok,Unknown Regions,1.0,,,,,False
+plexis,Plexis,Core Worlds,5.0,L,13.0,11.0,12.0,True
+plin-minor,Plin Minor,Unknown,,,,,,False
+polaar,Polaar,Unknown,,,,,,False
+polis-massa,Polis Massa,Outer Rim Territories,2.0,K,20.0,10.0,19.0,True
+pollillus,Pollillus,Unknown,,,,,,False
+polmanar,Polmanar,Outer Rim Territories,2.0,,,,,False
+polyneus,Polyneus,Inner Rim Territories,,J,14.0,9.0,13.0,True
+ponemah-terminal,Ponemah Terminal,Outer Rim Territories,2.0,H,16.0,7.0,15.0,True
+pothor,Pothor,Mid Rim Territories,3.0,,,,,False
+prefsbelt-iv,Prefsbelt IV,Outer Rim Territories,2.0,,,,,False
+pria,Pria,Unknown,,,,,,False
+primea,Primea,Unknown Regions,1.0,,,,,False
+protobranch,Protobranch,Core Worlds,5.0,,,,,False
+pujool,Pujool,Outer Rim Territories,2.0,,,,,False
+pyra,Pyra,Unknown,,,,,,False
+pzandias,Pzandias,Mid Rim Territories,3.0,,,,,False
+qhulosk,Qhulosk,Outer Rim Territories,2.0,T,8.0,19.0,7.0,True
+qualai,Qualai,Outer Rim Territories,2.0,,,,,False
+quarmendy,Quarmendy,Mid Rim Territories,3.0,R,15.0,17.0,14.0,True
+quarzite,Quarzite,Inner Rim Territories,,M,13.0,12.0,12.0,True
+quell,Quell,Outer Rim Territories,2.0,Q,6.0,16.0,5.0,True
+quermia,Quermia,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+ques,Ques,Hutt Space,,,,,,False
+quila,Quila,Unknown,,,,,,False
+quintil,Quintil,Outer Rim Territories,2.0,,,,,False
+raddan,Raddan,Unknown,,,,,,False
+radhii,Radhii,Unknown,,,,,,False
+raithal,Raithal,Colonies,4.0,M,9.0,12.0,8.0,True
+rajtiri,Rajtiri,Expansion Region,3.0,P,9.0,15.0,8.0,True
+rakata-prime,Rakata Prime,Unknown Regions,1.0,G,11.0,6.0,10.0,True
+ralltiir,Ralltiir,Core Worlds,5.0,,,,,False
+rango-tan,Rango Tan,Unknown,,,,,,False
+rapacc,Rapacc,Unknown Regions,1.0,,,,,False
+rattatak,Rattatak,Outer Rim Territories,2.0,H,16.0,7.0,15.0,True
+raxus-prime,Raxus Prime,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+raxus-secundus,Raxus Secundus,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+raydonia,Raydonia,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+raysho,Raysho,Core Worlds,5.0,M,12.0,12.0,11.0,True
+reamma,Reamma,Outer Rim Territories,2.0,,,,,False
+reerez,Reerez,Outer Rim Territories,2.0,,,,,False
+refnu,Refnu,Outer Rim Territories,2.0,N,5.0,13.0,4.0,True
+rekkana,Rekkana,Unknown,,,,,,False
+rendel,Rendel,Unknown,,,,,,False
+rendili,Rendili,Core Worlds,5.0,M,11.0,12.0,10.0,True
+rentor,Rentor,Unknown Regions,1.0,,,,,False
+retta,Retta,Wild Space,1.0,,,,,False
+rhen-var,Rhen Var,Outer Rim Territories,2.0,R,6.0,17.0,5.0,True
+rhigar,Rhigar,Unknown Regions,1.0,,,,,False
+rhinnal,Rhinnal,Unknown,,,,,,False
+ridlay,Ridlay,Unknown,,,,,,False
+riflor,Riflor,Mid Rim Territories,3.0,J,16.0,9.0,15.0,True
+rina-major,Rina Major,Outer Rim Territories,2.0,I,17.0,8.0,16.0,True
+ringo-vinda,Ringo Vinda,Mid Rim Territories,3.0,R,7.0,17.0,6.0,True
+rinn,Rinn,Outer Rim Territories,2.0,U,12.0,20.0,11.0,True
+rion,Rion,Outer Rim Territories,2.0,,,,,False
+rior,Rior,Unknown,,,,,,False
+riosa,Riosa,Inner Rim Territories,,J,8.0,9.0,7.0,True
+rishi,Rishi,Outer Rim Territories,2.0,S,15.0,18.0,14.0,True
+risso,Risso,Expansion Region,3.0,N,14.0,13.0,13.0,True
+rodia,Rodia,Outer Rim Territories,2.0,R,16.0,17.0,15.0,True
+rohm,Rohm,Unknown,,,,,,False
+ronika,Ronika,Deep Core,5.0,L,10.0,11.0,9.0,True
+routh,Routh,Unknown,,,,,,False
+rumitaka,Rumitaka,Outer Rim Territories,2.0,,,,,False
+ruoss-minor,Ruoss Minor,Unknown,,,,,,False
+rushan-ix,Rushan IX,Unknown,,,,,,False
+ruusan,Ruusan,Mid Rim Territories,3.0,P,11.0,15.0,10.0,True
+rylorii-minor,Rylorii Minor,Western Reaches,,,,,,False
+ryloth,Ryloth,Outer Rim Territories,2.0,R,17.0,17.0,16.0,True
+rystan,Rystan,Outer Rim Territories,2.0,M,20.0,12.0,19.0,True
+safrifa,Safrifa,Outer Rim Territories,2.0,,,,,False
+saki,Saki,Outer Rim Territories,2.0,S,11.0,18.0,10.0,True
+saleucami,Saleucami,Outer Rim Territories,2.0,S,8.0,18.0,7.0,True
+salient-i,Salient I,Outer Rim Territories,2.0,R,3.0,17.0,2.0,True
+salient-ii,Salient II,Outer Rim Territories,2.0,R,3.0,17.0,2.0,True
+salliche,Salliche,Core Worlds,5.0,K,10.0,10.0,9.0,True
+sammun,Sammun,Outer Rim Territories,2.0,,,,,False
+samovar,Samovar,Western Reaches,,I,18.0,8.0,17.0,True
+sanjin,Sanjin,Unknown,,,,,,False
+sarka,Sarka,Mid Rim Territories,3.0,Q,8.0,16.0,7.0,True
+sarrish,Sarrish,Outer Rim Territories,2.0,,,,,False
+sarvchi,Sarvchi,Unknown Regions,1.0,,,,,False
+satotai,Satotai,Outer Rim Territories,2.0,,,,,False
+savareen,Savareen,Outer Rim Territories,2.0,,,,,False
+scarif,Scarif,Outer Rim Territories,2.0,S,15.0,18.0,14.0,True
+schesa,Schesa,Unknown Regions,1.0,,,,,False
+scipio,Scipio,Outer Rim Territories,2.0,,,,,False
+secundus-ando,Secundus Ando,Mid Rim Territories,3.0,,,,,False
+sedri,Sedri,Outer Rim Territories,2.0,,,,,False
+sedri-minor,Sedri Minor,Outer Rim Territories,2.0,,,,,False
+seelos,Seelos,Outer Rim Territories,2.0,Q,4.0,16.0,3.0,True
+segra-milo,Segra Milo,Unknown,,,,,,False
+selonia,Selonia,Core Worlds,5.0,M,11.0,12.0,10.0,True
+sembla,Sembla,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+serelia,Serelia,Mid Rim Territories,3.0,J,16.0,9.0,15.0,True
+serenno,Serenno,Outer Rim Territories,2.0,P,5.0,15.0,4.0,True
+sergia,Sergia,Inner Rim Territories,,J,15.0,9.0,14.0,True
+serralonis,Serralonis,Unknown,,,,,,False
+sesid,Sesid,Outer Rim Territories,2.0,P,4.0,15.0,3.0,True
+setor,Setor,Unknown,,,,,,False
+sevarcos,Sevarcos,Outer Rim Territories,2.0,N,19.0,13.0,18.0,True
+seylott,Seylott,Outer Rim Territories,2.0,,,,,False
+sha-qarot,Sha Qarot,Deep Core,5.0,,,,,False
+shadda-bi-boran,Shadda-Bi-Boran,Outer Rim Territories,2.0,O,18.0,14.0,17.0,True
+shantipole,Shantipole,Mid Rim Territories,3.0,Q,8.0,16.0,7.0,True
+shihon,Shihon,Unknown Regions,1.0,,,,,False
+shili,Shili,Expansion Region,3.0,L,8.0,11.0,7.0,True
+shownar,Shownar,Unknown,,,,,,False
+shuraden,Shuraden,Outer Rim Territories,2.0,I,18.0,8.0,17.0,True
+shu-torun,Shu-Torun,Mid Rim Territories,3.0,J,7.0,9.0,6.0,True
+sibensko,Sibensko,Expansion Region,3.0,L,15.0,11.0,14.0,True
+sirpar,Sirpar,Unknown,,,,,,False
+sissubo,Sissubo,Core Worlds,5.0,L,9.0,11.0,8.0,True
+skako,Skako,Core Worlds,5.0,L,9.0,11.0,8.0,True
+skako-minor,Skako Minor,Unknown,,,,,,False
+skaradosh,Skaradosh,Inner Rim Territories,,N,13.0,13.0,12.0,True
+skorii-lei,Skorii-Lei,Unknown,,,,,,False
+skuhl,Skuhl,Outer Rim Territories,2.0,R,5.0,17.0,4.0,True
+sleheyron,Sleheyron,Hutt Space,,S,10.0,18.0,9.0,True
+soika,Soika,Unknown,,,,,,False
+solitair,Solitair,Unknown Regions,1.0,,,,,False
+son-tuul,Son-tuul,Outer Rim Territories,2.0,J,4.0,9.0,3.0,True
+sorgal-12,Sorgal 12,Unknown,,,,,,False
+sorgan,Sorgan,Outer Rim Territories,2.0,,,,,False
+spalex,Spalex,Outer Rim Territories,2.0,J,6.0,9.0,5.0,True
+spintir,Spintir,Unknown,,,,,,False
+spira,Spira,Unknown,,,,,,False
+sposia,Sposia,Unknown,,,,,,False
+sran,Sran,Outer Rim Territories,2.0,,,,,False
+sriluur,Sriluur,Outer Rim Territories,2.0,S,8.0,18.0,7.0,True
+sterdic-iv,Sterdic IV,Unknown,,P,17.0,15.0,16.0,True
+stewjon,Stewjon,Unknown,,,,,,False
+stivic,Stivic,Unknown Regions,1.0,,,,,False
+stobar,Stobar,Outer Rim Territories,2.0,M,15.0,12.0,14.0,True
+strokill-prime,Strokill Prime,Outer Rim Territories,2.0,U,6.0,20.0,5.0,True
+sturg-ganna-s-homeworld,Sturg Ganna's homeworld,Unknown,,,,,,False
+stygeon-prime,Stygeon Prime,Outer Rim Territories,2.0,Q,6.0,16.0,5.0,True
+suba,Suba,Unknown,,,,,,False
+subterrel,Subterrel,Outer Rim Territories,2.0,L,20.0,11.0,19.0,True
+sullust,Sullust,Outer Rim Territories,2.0,M,17.0,12.0,16.0,True
+sunrise,Sunrise,Unknown Regions,1.0,,,,,False
+sy-myrth,Sy Myrth,Outer Rim Territories,2.0,S,7.0,18.0,6.0,True
+synjax,Synjax,Unknown,,,,,,False
+taanab,Taanab,Inner Rim Territories,,O,8.0,14.0,7.0,True
+tah-nuhna,Tah'Nuhna,Mid Rim Territories,3.0,Q,14.0,16.0,13.0,True
+tais-brabbo,Tais Brabbo,Unknown,,,,,,False
+takobo,Takobo,Outer Rim Territories,2.0,N,6.0,13.0,5.0,True
+takodana,Takodana,Mid Rim Territories,3.0,J,16.0,9.0,15.0,True
+taloraan,Taloraan,Unknown,,,,,,False
+talus,Talus,Core Worlds,5.0,M,11.0,12.0,10.0,True
+tammuz-an,Tammuz-an,Outer Rim Territories,2.0,T,14.0,19.0,13.0,True
+tamsye-prime,Tamsye Prime,Outer Rim Territories,2.0,,,,,False
+tangenine,Tangenine,Core Worlds,5.0,,,,,False
+tansyl-5,Tansyl 5,Mid Rim Territories,3.0,O,16.0,14.0,15.0,True
+taris,Taris,Outer Rim Territories,2.0,N,7.0,13.0,6.0,True
+tarsunt,Tarsunt,Mid Rim Territories,3.0,T,14.0,19.0,13.0,True
+tatooine,Tatooine,Outer Rim Territories,2.0,R,16.0,17.0,15.0,True
+taul,Taul,Outer Rim Territories,2.0,J,18.0,9.0,17.0,True
+taw-provode,Taw Provode,Unknown,,,,,,False
+tehar,Tehar,Outer Rim Territories,2.0,I,7.0,8.0,6.0,True
+tei-untis,Tei-Untis,Unknown,,,,,,False
+telerath,Telerath,Inner Rim Territories,,,,,,False
+temako,Temako,Outer Rim Territories,2.0,,,,,False
+tepasi,Tepasi,Core Worlds,5.0,L,9.0,11.0,8.0,True
+teralov,Teralov,Unknown,,,,,,False
+teth,Teth,Wild Space,1.0,U,12.0,20.0,11.0,True
+tevel,Tevel,Outer Rim Territories,2.0,J,5.0,9.0,4.0,True
+thabeska,Thabeska,Outer Rim Territories,2.0,O,5.0,14.0,4.0,True
+thelj,Thelj,Unknown,,,,,,False
+therezar,Therezar,Unknown,,,,,,False
+theron,Theron,Unknown,,,,,,False
+thisspias,Thisspias,Expansion Region,3.0,O,8.0,14.0,7.0,True
+tholoth,Tholoth,Colonies,4.0,,,,,False
+thorat-ix,Thorat IX,Outer Rim Territories,2.0,,,,,False
+thrad,Thrad,Unknown,,,,,,False
+throffdon,Throffdon,Inner Rim Territories,,J,9.0,9.0,8.0,True
+thunder,Thunder,Outer Rim Territories,2.0,,,,,False
+thune,Thune,Wild Space,1.0,I,18.0,8.0,17.0,True
+thustra,Thustra,Expansion Region,3.0,O,7.0,14.0,6.0,True
+thyferra,Thyferra,Inner Rim Territories,,L,14.0,11.0,13.0,True
+tibrin,Tibrin,Mid Rim Territories,3.0,L,18.0,11.0,17.0,True
+tierfon,Tierfon,Mid Rim Territories,3.0,,,,,False
+tiferep-major,Tiferep Major,Mid Rim Territories,3.0,L,17.0,11.0,16.0,True
+tiikae,Tiikae,Unknown,,,,,,False
+tinnel-iv,Tinnel IV,Core Worlds,5.0,M,12.0,12.0,11.0,True
+tinoon,Tinoon,Outer Rim Territories,2.0,,,,,False
+tish,Tish,Unknown,,,,,,False
+tokmia,Tokmia,Outer Rim Territories,2.0,,,,,False
+toledian,Toledian,Mid Rim Territories,3.0,I,16.0,8.0,15.0,True
+toola,Toola,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+toprawa,Toprawa,Outer Rim Territories,2.0,P,5.0,15.0,4.0,True
+torrenoteer-minor,Torrenoteer Minor,Unknown,,,,,,False
+touksingal,Touksingal,Unknown,,,,,,False
+toydaria,Toydaria,Mid Rim Territories,3.0,R,11.0,17.0,10.0,True
+tralus,Tralus,Core Worlds,5.0,M,11.0,12.0,10.0,True
+trandosha,Trandosha,Mid Rim Territories,3.0,P,9.0,15.0,8.0,True
+trasse,Trasse,Mid Rim Territories,3.0,,,,,False
+triffis,Triffis,Mid Rim Territories,3.0,O,15.0,14.0,14.0,True
+trionak,Trionak,Outer Rim Territories,2.0,,,,,False
+trivar-ii,Trivar II,Outer Rim Territories,2.0,,,,,False
+troiken,Troiken,Outer Rim Territories,2.0,S,5.0,18.0,4.0,True
+troithe,Troithe,Deep Core,5.0,L,10.0,11.0,9.0,True
+trymant-iv,Trymant IV,Outer Rim Territories,2.0,L,20.0,11.0,19.0,True
+tsevuka,Tsevuka,Outer Rim Territories,2.0,M,6.0,12.0,5.0,True
+tund,Tund,Outer Rim Territories,2.0,U,8.0,20.0,7.0,True
+tureen-vii,Tureen VII,Outer Rim Territories,2.0,K,19.0,10.0,18.0,True
+turkana,Turkana,Outer Rim Territories,2.0,,,,,False
+twon-ketee,Twon Ketee,Unknown,,,,,,False
+tyegin,Tyegin,Unknown,,,,,,False
+tynna,Tynna,Expansion Region,3.0,N,14.0,13.0,13.0,True
+tython,Tython,Deep Core,5.0,L,10.0,11.0,9.0,True
+uba-iv,Uba IV,Mid Rim Territories,3.0,J,6.0,9.0,5.0,True
+ubardia,Ubardia,Colonies,4.0,N,12.0,13.0,11.0,True
+uchinao,Uchinao,Outer Rim Territories,2.0,,,,,False
+ukio,Ukio,Outer Rim Territories,2.0,S,15.0,18.0,14.0,True
+umbara,Umbara,Expansion Region,3.0,P,10.0,15.0,9.0,True
+umme,Umme,Outer Rim Territories,2.0,,,,,False
+unidentified-agricultural-planet,Unidentified agricultural planet,Unknown,,,,,,False
+unidentified-backwater-icy-planet,Unidentified backwater icy planet,Unknown,,,,,,False
+unidentified-city-planet,Unidentified city planet,Unknown,,,,,,False
+unidentified-desert-planet,Unidentified desert planet,Unknown,,,,,,False
+unidentified-forest-planet,Unidentified forest planet,Unknown,,,,,,False
+unidentified-gank-homeworld,Unidentified Gank homeworld,Outer Rim Territories,2.0,,,,,False
+unidentified-gas-giant-sentinel-base,Unidentified gas giant (Sentinel Base),Outer Rim Territories,2.0,,,,,False
+unidentified-green-planet,Unidentified green planet,Unknown,,,,,,False
+unidentified-jungle-planet,Unidentified jungle planet,Unknown,,,,,,False
+unidentified-lava-planet,Unidentified lava planet,Unknown,,,,,,False
+unidentified-night-world,Unidentified night world,Unknown,,,,,,False
+unidentified-ocean-planet,Unidentified ocean planet,Unknown,,,,,,False
+unidentified-outer-rim-planet-jenra,Unidentified Outer Rim planet (Jenra),Outer Rim Territories,2.0,,,,,False
+unidentified-outer-rim-planet-jul-jerjerrod,Unidentified Outer Rim planet (Jul Jerjerrod),Outer Rim Territories,2.0,,,,,False
+unidentified-outer-rim-planet-slitherette,Unidentified Outer Rim planet (Slitherette),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-bylsma,Unidentified planet (Bylsma),Unknown,,,,,,False
+unidentified-planet-cora-vessora,Unidentified planet (Cora Vessora),Unknown,,,,,,False
+unidentified-planet-dene-gois-cluster,Unidentified planet (Dene Gois Cluster),Unknown,,,,,,False
+unidentified-planet-dragon-void-run,Unidentified planet (Dragon Void Run),Unknown,,,,,,False
+unidentified-planet-drengir,Unidentified planet (Drengir),Unknown,,,,,,False
+unidentified-planet-droid-uprising,Unidentified planet (droid uprising),Wild Space,1.0,,,,,False
+unidentified-planet-eeth-koth,Unidentified planet (Eeth Koth),Unknown,,,,,,False
+unidentified-planet-emil-graf,Unidentified planet (Emil Graf),Wild Space,1.0,,,,,False
+unidentified-planet-freidal,Unidentified planet (Freidal),Unknown,,,,,,False
+unidentified-planet-han-solo,Unidentified planet (Han Solo),Unknown,,,,,,False
+unidentified-planet-havoc-outpost,Unidentified planet (Havoc Outpost),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-horizon-base,Unidentified planet (Horizon Base),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-ilum-system,Unidentified planet (Ilum system),Unknown Regions,1.0,,,,,False
+unidentified-planet-jaxxon,Unidentified planet (Jaxxon),Unknown,,,,,,False
+unidentified-planet-kanina-nico,Unidentified planet (Kanina Nico),Unknown,,,,,,False
+unidentified-planet-klikklak,Unidentified planet (Klikklak),Unknown,,,,,,False
+unidentified-planet-lexim,Unidentified planet (Lexim),Unknown,,,,,,False
+unidentified-planet-live-islands,Unidentified planet (Live islands),Unknown,,,,,,False
+unidentified-planet-lupr-or,Unidentified planet (Lupr'or),Unknown,,,,,,False
+unidentified-planet-magna-tolvan,Unidentified planet (Magna Tolvan),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-monsua-nebula,Unidentified planet (Monsua Nebula),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-neijaian,Unidentified planet (Neijaian),Unknown,,,,,,False
+unidentified-planet-nes-ukul,Unidentified planet (Nes Ukul),Unknown,,,,,,False
+unidentified-planet-outer-rim-territories,Unidentified planet (Outer Rim Territories),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-poe-dameron,Unidentified planet (Poe Dameron),Unknown,,,,,,False
+unidentified-planet-raada,Unidentified planet (Raada),Outer Rim Territories,2.0,,,,,False
+unidentified-planet-sabacc,Unidentified planet (sabacc),Unknown,,,,,,False
+unidentified-planet-sunshi-system,Unidentified planet (Sunshi system),Unknown,,,,,,False
+unidentified-planet-tholme-and-ventress,Unidentified planet (Tholme and Ventress),Unknown,,,,,,False
+unidentified-planet-thrawn-s-exile,Unidentified planet (Thrawn's exile),Wild Space,1.0,,,,,False
+unidentified-planet-vagadarr-system,Unidentified planet (Vagadarr system),Unknown,,,,,,False
+unidentified-purple-gas-giant,Unidentified purple gas giant,Unknown,,,,,,False
+unidentified-ringed-planet,Unidentified ringed planet,Unknown,,,,,,False
+unidentified-snee-homeworld,Unidentified Snee homeworld,Unknown,,,,,,False
+unidentified-squamatan-homeworld,Unidentified Squamatan homeworld,Unknown,,,,,,False
+unidentified-uninhabited-volcanic-planet,Unidentified uninhabited volcanic planet,Unknown,,,,,,False
+uquine,Uquine,Colonies,4.0,,,,,False
+urajab,Urajab,Expansion Region,3.0,L,16.0,11.0,15.0,True
+urch,Urch,Unknown Regions,1.0,,,,,False
+uro,Uro,Unknown,,,,,,False
+ushruu,Ushruu,Expansion Region,3.0,O,13.0,14.0,12.0,True
+utapau,Utapau,Outer Rim Territories,2.0,N,19.0,13.0,18.0,True
+uvena-prime,Uvena Prime,Outer Rim Territories,2.0,M,18.0,12.0,17.0,True
+uyter,Uyter,Mid Rim Territories,3.0,P,9.0,15.0,8.0,True
+vaal,Vaal,Unknown,,,,,,False
+valahari,Valahari,Unknown,,,,,,False
+vallt,Vallt,Outer Rim Territories,2.0,P,17.0,15.0,16.0,True
+valo,Valo,Outer Rim Territories,2.0,,,,,False
+valron,Valron,Unknown,,,,,,False
+valtos,Valtos,Unknown,,,,,,False
+vandor,Vandor,Mid Rim Territories,3.0,P,14.0,15.0,13.0,True
+vanqor,Vanqor,Outer Rim Territories,2.0,,,,,False
+vardos,Vardos,Core Worlds,5.0,K,9.0,10.0,8.0,True
+varkana,Varkana,Outer Rim Territories,2.0,O,6.0,14.0,5.0,True
+varnak,Varnak,Mid Rim Territories,3.0,,,,,False
+var-shaa,Var-Shaa,Mid Rim Territories,3.0,,,,,False
+vashka,Vashka,Outer Rim Territories,2.0,Q,17.0,16.0,16.0,True
+vassek,Vassek,Outer Rim Territories,2.0,I,17.0,8.0,16.0,True
+vavarna,Vavarna,Unknown,,,,,,False
+velusia,Velusia,Unknown,,,,,,False
+vendaxa,Vendaxa,Expansion Region,3.0,O,14.0,14.0,13.0,True
+vernid,Vernid,Outer Rim Territories,2.0,M,4.0,12.0,3.0,True
+veros,Veros,Unknown,,,,,,False
+vertseth,Vertseth,Unknown,,,,,,False
+verzan,Verzan,Deep Core,5.0,,,,,False
+vespaara,Vespaara,Outer Rim Territories,2.0,S,8.0,18.0,7.0,True
+vetine,Vetine,Inner Rim Territories,,L,14.0,11.0,13.0,True
+viamarr,Viamarr,Unknown,,,,,,False
+vincorba,Vincorba,Expansion Region,3.0,,,,,False
+vir-aphshire,Vir Aphshire,Unknown,,,,,,False
+virujansi,Virujansi,Unknown,,,,,,False
+vixnix,Vixnix,Mid Rim Territories,3.0,I,7.0,8.0,6.0,True
+vjun,Vjun,Outer Rim Territories,2.0,Q,6.0,16.0,5.0,True
+vlemoth-port,Vlemoth Port,Outer Rim Territories,2.0,,,,,False
+vodran,Vodran,Hutt Space,,S,9.0,18.0,8.0,True
+vorlag,Vorlag,Outer Rim Territories,2.0,P,18.0,15.0,17.0,True
+vorzyd-v,Vorzyd V,Outer Rim Territories,2.0,,,,,False
+vrant-tarnum,Vrant Tarnum,Unknown,,,,,,False
+vrogas-vas,Vrogas Vas,Outer Rim Territories,2.0,O,19.0,14.0,18.0,True
+vulpter,Vulpter,Deep Core,5.0,L,10.0,11.0,9.0,True
+vurdon-ka,Vurdon Ka,Inner Rim Territories,,M,9.0,12.0,8.0,True
+vyndal,Vyndal,Unknown,,,,,,False
+wadi-raffa,Wadi Raffa,Outer Rim Territories,2.0,M,20.0,12.0,19.0,True
+warlentta,Warlentta,Mid Rim Territories,3.0,M,7.0,12.0,6.0,True
+watassay,Watassay,Outer Rim Territories,2.0,,,,,False
+water,Water,Outer Rim Territories,2.0,,,,,False
+wecacoe,Wecacoe,Colonies,4.0,K,13.0,10.0,12.0,True
+weik,Weik,Wild Space,1.0,,,,,False
+wellspring-of-life,Wellspring of Life,Deep Core,5.0,,,,,False
+weyland,Weyland,Mid Rim Territories,3.0,N,7.0,13.0,6.0,True
+whiforla-ii,Whiforla II,Unknown,,,,,,False
+wick-111,Wick 111,Outer Rim Territories,2.0,S,16.0,18.0,15.0,True
+wind,Wind,Outer Rim Territories,2.0,,,,,False
+wobani,Wobani,Mid Rim Territories,3.0,R,8.0,17.0,7.0,True
+wrea,Wrea,Outer Rim Territories,2.0,S,17.0,18.0,16.0,True
+wynkahthu,Wynkahthu,Mid Rim Territories,3.0,L,7.0,11.0,6.0,True
+xais,Xais,Outer Rim Territories,2.0,,,,,False
+xala,Xala,Wild Space,1.0,H,14.0,7.0,13.0,True
+xendek,Xendek,Unknown,,,,,,False
+xibariz,Xibariz,Inner Rim Territories,,O,9.0,14.0,8.0,True
+xirl,Xirl,Wild Space,1.0,O,20.0,14.0,19.0,True
+xorrn,Xorrn,Outer Rim Territories,2.0,,,,,False
+yabol-opa,Yabol Opa,Colonies,4.0,M,9.0,12.0,8.0,True
+yaga-minor,Yaga Minor,Outer Rim Territories,2.0,K,5.0,10.0,4.0,True
+yag-dhul,Yag'Dhul,Inner Rim Territories,,L,14.0,11.0,13.0,True
+yakorki,Yakorki,Outer Rim Territories,2.0,,,,,False
+yar-togna,Yar Togna,Outer Rim Territories,2.0,P,18.0,15.0,17.0,True
+yarma,Yarma,Outer Rim Territories,2.0,T,8.0,19.0,7.0,True
+yavin-prime,Yavin Prime,Outer Rim Territories,2.0,P,6.0,15.0,5.0,True
+yeksom,Yeksom,Outer Rim Territories,2.0,,,,,False
+yerbana,Yerbana,Outer Rim Territories,2.0,Q,17.0,16.0,16.0,True
+ylesia,Ylesia,Outer Rim Territories,2.0,T,12.0,19.0,11.0,True
+yotch,Yotch,Unknown,,,,,,False
+yoturba,Yoturba,Mid Rim Territories,3.0,,,,,False
+yout,Yout,Unknown,,,,,,False
+yungbrii,Yungbrii,Mid Rim Territories,3.0,,,,,False
+zaadja,Zaadja,Outer Rim Territories,2.0,,,,,False
+zastiga,Zastiga,Outer Rim Territories,2.0,K,20.0,10.0,19.0,True
+zav-alox,Zav Alox,Unknown,,,,,,False
+zeffo,Zeffo,Outer Rim Territories,2.0,M,3.0,12.0,2.0,True
+zeitooine,Zeitooine,Inner Rim Territories,,,,,,False
+zhanox,Zhanox,Outer Rim Territories,2.0,K,18.0,10.0,17.0,True
+zoh,Zoh,Unknown,,,,,,False
+zolan,Zolan,Mid Rim Territories,3.0,P,16.0,15.0,15.0,True
+zoph,Zoph,Outer Rim Territories,2.0,,,,,False
+zygerria,Zygerria,Outer Rim Territories,2.0,S,4.0,18.0,3.0,True
+zyzar,Zyzar,Unknown,,,,,,False
+zyzek,Zyzek,Unknown Regions,1.0,,,,,False
