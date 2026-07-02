@@ -16,9 +16,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Fichiers de données brutes
-Data/Raw/
-
 # Modèles
 models/
 
