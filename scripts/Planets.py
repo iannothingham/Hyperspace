@@ -31,6 +31,10 @@ df["Grid Number"] = coords[1]
 
 df = df[df["Grid Coordinates"] != "Unknown"]
 
+# Supprimer les lignes où la colonne "Grid Letter" ou "Grid Number" est vide
+
+df = df.dropna(subset=["Grid Letter", "Grid Number"])
+
 # Sauvegarder le DataFrame nettoyé dans un nouveau fichier CSV
 
 df.to_csv("Data/Processed/planets_clean.csv", index=False)
