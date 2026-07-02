@@ -16,7 +16,6 @@ df.insert(0, "ID", id_col)
 df = df.rename(columns={
     "Name": "Planet"
 })
-
 # Remplir les valeurs manquantes avec "Unknown"
 
 df = df.fillna("Unknown")
@@ -28,6 +27,10 @@ coords = df["Grid Coordinates"].str.extract(r"([A-Z])-(\d+)")
 df["Grid Letter"] = coords[0]
 df["Grid Number"] = coords[1]
 
-print(df.head())
+# Supprimer les lignes où la colonne "Grid Coordinates" est égale à "Unknown"
 
-print(df.columns)
+df = df[df["Grid Coordinates"] != "Unknown"]
+
+# Sauvegarder le DataFrame nettoyé dans un nouveau fichier CSV
+
+df.to_csv("Data/Processed/planets_clean.csv", index=False)
