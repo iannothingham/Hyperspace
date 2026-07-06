@@ -3,7 +3,7 @@ from pathlib import Path
 
 import streamlit as st
 
-sys.path.append(str(Path(__file__).resolve().parent / "src"))
+sys.path.append(str(Path(__file__).resolve().parent))
 
 from hyperspace.data_loader import load_planets_data
 from hyperspace.calculator import hyperspace_time
