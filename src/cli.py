@@ -1,0 +1,2 @@
+from hyperspace.data_loader import load_planets_data
+from hyperspace.calculator import hyperspace_time
