@@ -12,7 +12,13 @@ df["Grid X"] = df["Grid Letter"].str.upper().apply(
 
 df["Grid Number"] = pd.to_numeric(df["Grid Number"])
 
-def hyperspace_time(departure_planet, arrival_planet):
+def hyperspace_time(departure_planet, arrival_planet, hyperdrive_multiplier=1):
+
+    allowed_hyperdrive_multipliers = [0.5, 1, 2]
+
+    if hyperdrive_multiplier not in allowed_hyperdrive_multipliers:
+
+        return f"Multiplicateur invalide : {hyperdrive_multiplier}. Valeurs autorisées : 0.5, 1, 2"
 
     start = df[df["Planet"].str.lower() == departure_planet.lower()]
 
@@ -36,13 +42,15 @@ def hyperspace_time(departure_planet, arrival_planet):
 
     distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 
-    hours = distance * 8
+    hours = distance * 8 * hyperdrive_multiplier
 
     return {
 
         "departure": departure_planet,
 
         "arrival": arrival_planet,
+
+        "hyperdrive_multiplier": f"x{hyperdrive_multiplier}",
 
         "distance_cases": round(distance, 2),
 
