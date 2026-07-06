@@ -60,6 +60,50 @@ def hyperspace_time(departure_planet, arrival_planet, hyperdrive_multiplier=1):
 
     }
 
-result = hyperspace_time("Tatooine", "Coruscant")
+# Saisie des informations
 
-print(result)
+departure = input("Planète de départ : ")
+
+arrival = input("Planète d'arrivée : ")
+
+hyperdrive = input("Multiplicateur d'hyperespace (0.5, 1 ou 2) [1] : ")
+
+# Valeur par défaut
+
+if hyperdrive == "":
+
+    hyperdrive = 1
+
+else:
+
+    hyperdrive = float(hyperdrive)
+
+# Calcul
+
+result = hyperspace_time(departure, arrival, hyperdrive)
+
+# Affichage du résultat
+
+if isinstance(result, dict):
+
+    print("\n==============================")
+
+    print(" STAR WARS HYPERSPACE CALCULATOR")
+
+    print("==============================")
+
+    print(f"Départ           : {result['departure']}")
+
+    print(f"Destination      : {result['arrival']}")
+
+    print(f"Hyperdrive       : x{hyperdrive}")
+
+    print(f"Distance         : {result['distance_cases']} cases")
+
+    print(f"Temps de trajet  : {result['travel_time_hours']} heures")
+
+    print(f"                 : {result['travel_time_days']} jours")
+
+else:
+
+    print(result)
