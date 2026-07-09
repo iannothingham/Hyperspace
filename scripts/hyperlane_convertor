@@ -1,11 +1,11 @@
 import pandas as pd
 import re
 
-route_name = "Corellian Run"
+route_name = "Corellian Trade Spine"
 speed_factor = 0.75
 
 # Lecture du fichier texte
-with open("Data/Raw/Corellian Run.txt", "r") as f:
+with open("Data/Raw/Corellian Trade Spine.txt", "r") as f:
     raw_text = f.read()
 
 planets = raw_text.split(" - ")
