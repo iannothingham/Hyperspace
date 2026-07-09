@@ -1,0 +1,49 @@
+Route;From;To;Speed Factor
+Hydian Way;Bonadan;Salient;0.75
+Hydian Way;Salient;Cadomai;0.75
+Hydian Way;Cadomai;Ruuria;0.75
+Hydian Way;Ruuria;Listehol;0.75
+Hydian Way;Listehol;Jelucan;0.75
+Hydian Way;Jelucan;Telos;0.75
+Hydian Way;Telos;Mirrin Prime;0.75
+Hydian Way;Mirrin Prime;Pho Ph'eah;0.75
+Hydian Way;Pho Ph'eah;Toprawa;0.75
+Hydian Way;Toprawa;Junction;0.75
+Hydian Way;Junction;Celanon;0.75
+Hydian Way;Celanon;Botajef;0.75
+Hydian Way;Botajef;Bandomeer;0.75
+Hydian Way;Bandomeer;Otor's Hub;0.75
+Hydian Way;Otor's Hub;Corsin;0.75
+Hydian Way;Corsin;Mikkia;0.75
+Hydian Way;Mikkia;Bogden;0.75
+Hydian Way;Bogden;Hevurion;0.75
+Hydian Way;Hevurion;Paqualis III;0.75
+Hydian Way;Paqualis III;Drearia;0.75
+Hydian Way;Drearia;Champala;0.75
+Hydian Way;Champala;Uviuy Exen;0.75
+Hydian Way;Uviuy Exen;Brentaal IV;0.75
+Hydian Way;Brentaal IV;Skako;0.75
+Hydian Way;Skako;Fedalle;0.75
+Hydian Way;Fedalle;Bellassa;0.75
+Hydian Way;Bellassa;Exodeen;0.75
+Hydian Way;Exodeen;Suntilla;0.75
+Hydian Way;Suntilla;Ubardia;0.75
+Hydian Way;Ubardia;Korbori;0.75
+Hydian Way;Korbori;Candovant;0.75
+Hydian Way;Candovant;Denon;0.75
+Hydian Way;Denon;Chardaan;0.75
+Hydian Way;Chardaan;Pax;0.75
+Hydian Way;Pax;ZeHeth;0.75
+Hydian Way;ZeHeth;Malastare;0.75
+Hydian Way;Malastare;Darkknell;0.75
+Hydian Way;Darkknell;Orish;0.75
+Hydian Way;Orish;Eriadu;0.75
+Hydian Way;Eriadu;Black Stall Station;0.75
+Hydian Way;Black Stall Station;Shumavar;0.75
+Hydian Way;Shumavar;Atravis;0.75
+Hydian Way;Atravis;Rutan;0.75
+Hydian Way;Rutan;Terminus;0.75
+Hydian Way;Terminus;Imynusoph system;0.75
+Hydian Way;Imynusoph system;Nevarro;0.75
+Hydian Way;Nevarro;Imynusoph system;0.75
+Hydian Way;Imynusoph system;;0.75
