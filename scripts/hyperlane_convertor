@@ -31,6 +31,6 @@ existing_df = pd.read_csv("Data/Processed/hyperlanes.csv", sep=";")
 final_df = pd.concat([existing_df, new_df], ignore_index=True)
 
 # Sauvegarde
-final_df.to_csv("Data/Processed/hyperlanes.csv", sep=";", index=False)
+final_df.to_csv("Data/Processed/hyperlanes.csv", sep=",", index=False)
 
 print(final_df)

@@ -1,186 +1,186 @@
-Route;From;To;Speed Factor
-Hydian Way;Bonadan;Salient;0.75
-Hydian Way;Salient;Cadomai;0.75
-Hydian Way;Cadomai;Ruuria;0.75
-Hydian Way;Ruuria;Listehol;0.75
-Hydian Way;Listehol;Jelucan;0.75
-Hydian Way;Jelucan;Telos;0.75
-Hydian Way;Telos;Mirrin Prime;0.75
-Hydian Way;Mirrin Prime;Pho Ph'eah;0.75
-Hydian Way;Pho Ph'eah;Toprawa;0.75
-Hydian Way;Toprawa;Junction;0.75
-Hydian Way;Junction;Celanon;0.75
-Hydian Way;Celanon;Botajef;0.75
-Hydian Way;Botajef;Bandomeer;0.75
-Hydian Way;Bandomeer;Otor's Hub;0.75
-Hydian Way;Otor's Hub;Corsin;0.75
-Hydian Way;Corsin;Mikkia;0.75
-Hydian Way;Mikkia;Bogden;0.75
-Hydian Way;Bogden;Hevurion;0.75
-Hydian Way;Hevurion;Paqualis III;0.75
-Hydian Way;Paqualis III;Drearia;0.75
-Hydian Way;Drearia;Champala;0.75
-Hydian Way;Champala;Uviuy Exen;0.75
-Hydian Way;Uviuy Exen;Brentaal IV;0.75
-Hydian Way;Brentaal IV;Skako;0.75
-Hydian Way;Skako;Fedalle;0.75
-Hydian Way;Fedalle;Bellassa;0.75
-Hydian Way;Bellassa;Exodeen;0.75
-Hydian Way;Exodeen;Suntilla;0.75
-Hydian Way;Suntilla;Ubardia;0.75
-Hydian Way;Ubardia;Korbori;0.75
-Hydian Way;Korbori;Candovant;0.75
-Hydian Way;Candovant;Denon;0.75
-Hydian Way;Denon;Chardaan;0.75
-Hydian Way;Chardaan;Pax;0.75
-Hydian Way;Pax;ZeHeth;0.75
-Hydian Way;ZeHeth;Malastare;0.75
-Hydian Way;Malastare;Darkknell;0.75
-Hydian Way;Darkknell;Orish;0.75
-Hydian Way;Orish;Eriadu;0.75
-Hydian Way;Eriadu;Black Stall Station;0.75
-Hydian Way;Black Stall Station;Shumavar;0.75
-Hydian Way;Shumavar;Atravis;0.75
-Hydian Way;Atravis;Rutan;0.75
-Hydian Way;Rutan;Terminus;0.75
-Hydian Way;Terminus;Imynusoph system;0.75
-Hydian Way;Imynusoph system;Nevarro;0.75
-Hydian Way;Nevarro;Imynusoph system;0.75
-Pelermian Trade Route;Coruscant;Alsakan;0.75
-Pelermian Trade Route;Alsakan;Grizmallt;0.75
-Pelermian Trade Route;Grizmallt;Anaxes;0.75
-Pelermian Trade Route;Anaxes;Corulag;0.75
-Pelermian Trade Route;Corulag;Chandrila;0.75
-Pelermian Trade Route;Chandrila;Brentaal IV;0.75
-Pelermian Trade Route;Brentaal IV;Esseles;0.75
-Pelermian Trade Route;Esseles;Rhinnal;0.75
-Pelermian Trade Route;Rhinnal;Ralltiir;0.75
-Pelermian Trade Route;Ralltiir;Delle system;0.75
-Pelermian Trade Route;Delle system;Yabol Opa;0.75
-Pelermian Trade Route;Yabol Opa;Ifmix VI;0.75
-Pelermian Trade Route;Ifmix VI;Shulstine V;0.75
-Pelermian Trade Route;Shulstine V;Castell;0.75
-Pelermian Trade Route;Castell;Raithal;0.75
-Pelermian Trade Route;Raithal;Vurdon Ka;0.75
-Pelermian Trade Route;Vurdon Ka;Joiol;0.75
-Pelermian Trade Route;Joiol;Chazwa;0.75
-Pelermian Trade Route;Chazwa;Relatta;0.75
-Pelermian Trade Route;Relatta;Tirahnn;0.75
-Pelermian Trade Route;Tirahnn;Dalcretti;0.75
-Pelermian Trade Route;Dalcretti;Taanab;0.75
-Pelermian Trade Route;Taanab;Sermeria;0.75
-Pelermian Trade Route;Sermeria;Carcel;0.75
-Pelermian Trade Route;Carcel;Pirin;0.75
-Pelermian Trade Route;Pirin;Gizer;0.75
-Pelermian Trade Route;Gizer;Lantillies;0.75
-Pelermian Trade Route;Lantillies;Rearqu Cluster;0.75
-Pelermian Trade Route;Rearqu Cluster;Jeyell;0.75
-Pelermian Trade Route;Jeyell;Roche;0.75
-Pelermian Trade Route;Roche;Orleon;0.75
-Pelermian Trade Route;Orleon;Talcene;0.75
-Pelermian Trade Route;Talcene;Salvara system;0.75
-Pelermian Trade Route;Salvara system;Euceron;0.75
-Pelermian Trade Route;Euceron;Abhean;0.75
-Pelermian Trade Route;Abhean;The Wheel;0.75
-Pelermian Trade Route;The Wheel;Centares;0.75
-Pelermian Trade Route;Centares;Antemeridias;0.75
-Pelermian Trade Route;Antemeridias;Budpock;0.75
-Pelermian Trade Route;Budpock;Columex;0.75
-Pelermian Trade Route;Columex;Arcan IV;0.75
-Pelermian Trade Route;Arcan IV;Lianna;0.75
-Pelermian Trade Route;Lianna;Barseg;0.75
-Pelermian Trade Route;Barseg;Lorrad;0.75
-Pelermian Trade Route;Lorrad;Desevro;0.75
-Pelermian Trade Route;Desevro;Kanaver;0.75
-Pelermian Trade Route;Kanaver;Janodral Mizar;0.75
-Pelermian Trade Route;Janodral Mizar;Ank Ki'Shor;0.75
-Pelermian Trade Route;Ank Ki'Shor;Estaria;0.75
-Pelermian Trade Route;Estaria;Makem Te;0.75
-Pelermian Trade Route;Makem Te;Quermia;0.75
-Rimma Trade Route;Abregado-rae;Dentaal system;0.75
-Rimma Trade Route;Dentaal system;Giju;0.75
-Rimma Trade Route;Giju;Ghorman;0.75
-Rimma Trade Route;Ghorman;Thyferra;0.75
-Rimma Trade Route;Thyferra;Yag'Dhul;0.75
-Rimma Trade Route;Yag'Dhul;Wroona;0.75
-Rimma Trade Route;Wroona;Vandelhelm;0.75
-Rimma Trade Route;Vandelhelm;Woostri;0.75
-Rimma Trade Route;Woostri;Vondarc;0.75
-Rimma Trade Route;Vondarc;Sullust;0.75
-Rimma Trade Route;Sullust;Eriadu;0.75
-Rimma Trade Route;Eriadu;Clak'dor;0.75
-Rimma Trade Route;Clak'dor;Triton;0.75
-Rimma Trade Route;Triton;Sluis Van;0.75
-Rimma Trade Route;Sluis Van;Karideph system;0.75
-Rimma Trade Route;Karideph system;Kal'Shebbol;0.75
-Corellian Run;Coruscant;Ixtlar;0.75
-Corellian Run;Ixtlar;Corellia;0.75
-Corellian Run;Corellia;Tinnel IV;0.75
-Corellian Run;Tinnel IV;Loronar;0.75
-Corellian Run;Loronar;Byblos;0.75
-Corellian Run;Byblos;Iseno;0.75
-Corellian Run;Iseno;Abednedo;0.75
-Corellian Run;Abednedo;Denon;0.75
-Corellian Run;Denon;Spirana;0.75
-Corellian Run;Spirana;Rhommamool;0.75
-Corellian Run;Rhommamool;Allanteen VI;0.75
-Corellian Run;Allanteen VI;Gamor;0.75
-Corellian Run;Gamor;Milagro;0.75
-Corellian Run;Milagro;Bacrana;0.75
-Corellian Run;Bacrana;New Cov;0.75
-Corellian Run;New Cov;Druckenwell;0.75
-Corellian Run;Druckenwell;Mon Gazza;0.75
-Corellian Run;Mon Gazza;Herdessa;0.75
-Corellian Run;Herdessa;Radnor;0.75
-Corellian Run;Radnor;Christophsis;0.75
-Corellian Run;Christophsis;Ryloth;0.75
-Corellian Run;Ryloth;Smuggler's Run;0.75
-Corellian Run;Smuggler's Run;Naos;0.75
-Corellian Run;Naos;Lamaredd;0.75
-Corellian Trade Spine;Corellia;Duro;0.75
-Corellian Trade Spine;Duro;Hosnian Prime Cabarria;0.75
-Corellian Trade Spine;Hosnian Prime Cabarria;Nantoon;0.75
-Corellian Trade Spine;Nantoon;Kelada;0.75
-Corellian Trade Spine;Kelada;Foless;0.75
-Corellian Trade Spine;Foless;Bestine IV;0.75
-Corellian Trade Spine;Bestine IV;Mechis;0.75
-Corellian Trade Spine;Mechis;Yag'Dhul;0.75
-Corellian Trade Spine;Yag'Dhul;Harrin;0.75
-Corellian Trade Spine;Harrin;Cymoon;0.75
-Corellian Trade Spine;Cymoon;Sibensko;0.75
-Corellian Trade Spine;Sibensko;Kinyen Blutopia;0.75
-Corellian Trade Spine;Kinyen Blutopia;Ivarujar;0.75
-Corellian Trade Spine;Ivarujar;Bomis Koori;0.75
-Corellian Trade Spine;Bomis Koori;Kriselist;0.75
-Corellian Trade Spine;Kriselist;Kaal;0.75
-Corellian Trade Spine;Kaal;Abelor;0.75
-Corellian Trade Spine;Abelor;Jiroch;0.75
-Corellian Trade Spine;Jiroch;Cargamalis;0.75
-Corellian Trade Spine;Cargamalis;Mugaar;0.75
-Corellian Trade Spine;Mugaar;Javin;0.75
-Corellian Trade Spine;Javin;Aztubek;0.75
-Corellian Trade Spine;Aztubek;Kumru;0.75
-Corellian Trade Spine;Kumru;High Chunah;0.75
-Corellian Trade Spine;High Chunah;Kirtarkin;0.75
-Corellian Trade Spine;Kirtarkin;Mexeluine;0.75
-Corellian Trade Spine;Mexeluine;Gerrenthum;0.75
-Corellian Trade Spine;Gerrenthum;Indellian;0.75
-Corellian Trade Spine;Indellian;Bendeluum;0.75
-Corellian Trade Spine;Bendeluum;Zhanox;0.75
-Corellian Trade Spine;Zhanox;Ione;0.75
-Corellian Trade Spine;Ione;Mataou;0.75
-Corellian Trade Spine;Mataou;Anantapar;0.75
-Corellian Trade Spine;Anantapar;Shuxl;0.75
-Corellian Trade Spine;Shuxl;Ertegas;0.75
-Corellian Trade Spine;Ertegas;Darlyn Boda;0.75
-Corellian Trade Spine;Darlyn Boda;Orn Kios;0.75
-Corellian Trade Spine;Orn Kios;Ozu;0.75
-Corellian Trade Spine;Ozu;Isde Naha;0.75
-Corellian Trade Spine;Isde Naha;Togominda;0.75
-Corellian Trade Spine;Togominda;Berrol's Donn;0.75
-Corellian Trade Spine;Berrol's Donn;Trenchenovu;0.75
-Corellian Trade Spine;Trenchenovu;Tureen VII;0.75
-Corellian Trade Spine;Tureen VII;Manpha;0.75
-Corellian Trade Spine;Manpha;Zastiga;0.75
-Corellian Trade Spine;Zastiga;Grava;0.75
-Corellian Trade Spine;Grava;Terminus;0.75
+Route,From,To,Speed Factor
+Hydian Way,Bonadan,Salient,0.75
+Hydian Way,Salient,Cadomai,0.75
+Hydian Way,Cadomai,Ruuria,0.75
+Hydian Way,Ruuria,Listehol,0.75
+Hydian Way,Listehol,Jelucan,0.75
+Hydian Way,Jelucan,Telos,0.75
+Hydian Way,Telos,Mirrin Prime,0.75
+Hydian Way,Mirrin Prime,Pho Ph'eah,0.75
+Hydian Way,Pho Ph'eah,Toprawa,0.75
+Hydian Way,Toprawa,Junction,0.75
+Hydian Way,Junction,Celanon,0.75
+Hydian Way,Celanon,Botajef,0.75
+Hydian Way,Botajef,Bandomeer,0.75
+Hydian Way,Bandomeer,Otor's Hub,0.75
+Hydian Way,Otor's Hub,Corsin,0.75
+Hydian Way,Corsin,Mikkia,0.75
+Hydian Way,Mikkia,Bogden,0.75
+Hydian Way,Bogden,Hevurion,0.75
+Hydian Way,Hevurion,Paqualis III,0.75
+Hydian Way,Paqualis III,Drearia,0.75
+Hydian Way,Drearia,Champala,0.75
+Hydian Way,Champala,Uviuy Exen,0.75
+Hydian Way,Uviuy Exen,Brentaal IV,0.75
+Hydian Way,Brentaal IV,Skako,0.75
+Hydian Way,Skako,Fedalle,0.75
+Hydian Way,Fedalle,Bellassa,0.75
+Hydian Way,Bellassa,Exodeen,0.75
+Hydian Way,Exodeen,Suntilla,0.75
+Hydian Way,Suntilla,Ubardia,0.75
+Hydian Way,Ubardia,Korbori,0.75
+Hydian Way,Korbori,Candovant,0.75
+Hydian Way,Candovant,Denon,0.75
+Hydian Way,Denon,Chardaan,0.75
+Hydian Way,Chardaan,Pax,0.75
+Hydian Way,Pax,ZeHeth,0.75
+Hydian Way,ZeHeth,Malastare,0.75
+Hydian Way,Malastare,Darkknell,0.75
+Hydian Way,Darkknell,Orish,0.75
+Hydian Way,Orish,Eriadu,0.75
+Hydian Way,Eriadu,Black Stall Station,0.75
+Hydian Way,Black Stall Station,Shumavar,0.75
+Hydian Way,Shumavar,Atravis,0.75
+Hydian Way,Atravis,Rutan,0.75
+Hydian Way,Rutan,Terminus,0.75
+Hydian Way,Terminus,Imynusoph system,0.75
+Hydian Way,Imynusoph system,Nevarro,0.75
+Hydian Way,Nevarro,Imynusoph system,0.75
+Pelermian Trade Route,Coruscant,Alsakan,0.75
+Pelermian Trade Route,Alsakan,Grizmallt,0.75
+Pelermian Trade Route,Grizmallt,Anaxes,0.75
+Pelermian Trade Route,Anaxes,Corulag,0.75
+Pelermian Trade Route,Corulag,Chandrila,0.75
+Pelermian Trade Route,Chandrila,Brentaal IV,0.75
+Pelermian Trade Route,Brentaal IV,Esseles,0.75
+Pelermian Trade Route,Esseles,Rhinnal,0.75
+Pelermian Trade Route,Rhinnal,Ralltiir,0.75
+Pelermian Trade Route,Ralltiir,Delle system,0.75
+Pelermian Trade Route,Delle system,Yabol Opa,0.75
+Pelermian Trade Route,Yabol Opa,Ifmix VI,0.75
+Pelermian Trade Route,Ifmix VI,Shulstine V,0.75
+Pelermian Trade Route,Shulstine V,Castell,0.75
+Pelermian Trade Route,Castell,Raithal,0.75
+Pelermian Trade Route,Raithal,Vurdon Ka,0.75
+Pelermian Trade Route,Vurdon Ka,Joiol,0.75
+Pelermian Trade Route,Joiol,Chazwa,0.75
+Pelermian Trade Route,Chazwa,Relatta,0.75
+Pelermian Trade Route,Relatta,Tirahnn,0.75
+Pelermian Trade Route,Tirahnn,Dalcretti,0.75
+Pelermian Trade Route,Dalcretti,Taanab,0.75
+Pelermian Trade Route,Taanab,Sermeria,0.75
+Pelermian Trade Route,Sermeria,Carcel,0.75
+Pelermian Trade Route,Carcel,Pirin,0.75
+Pelermian Trade Route,Pirin,Gizer,0.75
+Pelermian Trade Route,Gizer,Lantillies,0.75
+Pelermian Trade Route,Lantillies,Rearqu Cluster,0.75
+Pelermian Trade Route,Rearqu Cluster,Jeyell,0.75
+Pelermian Trade Route,Jeyell,Roche,0.75
+Pelermian Trade Route,Roche,Orleon,0.75
+Pelermian Trade Route,Orleon,Talcene,0.75
+Pelermian Trade Route,Talcene,Salvara system,0.75
+Pelermian Trade Route,Salvara system,Euceron,0.75
+Pelermian Trade Route,Euceron,Abhean,0.75
+Pelermian Trade Route,Abhean,The Wheel,0.75
+Pelermian Trade Route,The Wheel,Centares,0.75
+Pelermian Trade Route,Centares,Antemeridias,0.75
+Pelermian Trade Route,Antemeridias,Budpock,0.75
+Pelermian Trade Route,Budpock,Columex,0.75
+Pelermian Trade Route,Columex,Arcan IV,0.75
+Pelermian Trade Route,Arcan IV,Lianna,0.75
+Pelermian Trade Route,Lianna,Barseg,0.75
+Pelermian Trade Route,Barseg,Lorrad,0.75
+Pelermian Trade Route,Lorrad,Desevro,0.75
+Pelermian Trade Route,Desevro,Kanaver,0.75
+Pelermian Trade Route,Kanaver,Janodral Mizar,0.75
+Pelermian Trade Route,Janodral Mizar,Ank Ki'Shor,0.75
+Pelermian Trade Route,Ank Ki'Shor,Estaria,0.75
+Pelermian Trade Route,Estaria,Makem Te,0.75
+Pelermian Trade Route,Makem Te,Quermia,0.75
+Rimma Trade Route,Abregado-rae,Dentaal system,0.75
+Rimma Trade Route,Dentaal system,Giju,0.75
+Rimma Trade Route,Giju,Ghorman,0.75
+Rimma Trade Route,Ghorman,Thyferra,0.75
+Rimma Trade Route,Thyferra,Yag'Dhul,0.75
+Rimma Trade Route,Yag'Dhul,Wroona,0.75
+Rimma Trade Route,Wroona,Vandelhelm,0.75
+Rimma Trade Route,Vandelhelm,Woostri,0.75
+Rimma Trade Route,Woostri,Vondarc,0.75
+Rimma Trade Route,Vondarc,Sullust,0.75
+Rimma Trade Route,Sullust,Eriadu,0.75
+Rimma Trade Route,Eriadu,Clak'dor,0.75
+Rimma Trade Route,Clak'dor,Triton,0.75
+Rimma Trade Route,Triton,Sluis Van,0.75
+Rimma Trade Route,Sluis Van,Karideph system,0.75
+Rimma Trade Route,Karideph system,Kal'Shebbol,0.75
+Corellian Run,Coruscant,Ixtlar,0.75
+Corellian Run,Ixtlar,Corellia,0.75
+Corellian Run,Corellia,Tinnel IV,0.75
+Corellian Run,Tinnel IV,Loronar,0.75
+Corellian Run,Loronar,Byblos,0.75
+Corellian Run,Byblos,Iseno,0.75
+Corellian Run,Iseno,Abednedo,0.75
+Corellian Run,Abednedo,Denon,0.75
+Corellian Run,Denon,Spirana,0.75
+Corellian Run,Spirana,Rhommamool,0.75
+Corellian Run,Rhommamool,Allanteen VI,0.75
+Corellian Run,Allanteen VI,Gamor,0.75
+Corellian Run,Gamor,Milagro,0.75
+Corellian Run,Milagro,Bacrana,0.75
+Corellian Run,Bacrana,New Cov,0.75
+Corellian Run,New Cov,Druckenwell,0.75
+Corellian Run,Druckenwell,Mon Gazza,0.75
+Corellian Run,Mon Gazza,Herdessa,0.75
+Corellian Run,Herdessa,Radnor,0.75
+Corellian Run,Radnor,Christophsis,0.75
+Corellian Run,Christophsis,Ryloth,0.75
+Corellian Run,Ryloth,Smuggler's Run,0.75
+Corellian Run,Smuggler's Run,Naos,0.75
+Corellian Run,Naos,Lamaredd,0.75
+Corellian Trade Spine,Corellia,Duro,0.75
+Corellian Trade Spine,Duro,Hosnian Prime Cabarria,0.75
+Corellian Trade Spine,Hosnian Prime Cabarria,Nantoon,0.75
+Corellian Trade Spine,Nantoon,Kelada,0.75
+Corellian Trade Spine,Kelada,Foless,0.75
+Corellian Trade Spine,Foless,Bestine IV,0.75
+Corellian Trade Spine,Bestine IV,Mechis,0.75
+Corellian Trade Spine,Mechis,Yag'Dhul,0.75
+Corellian Trade Spine,Yag'Dhul,Harrin,0.75
+Corellian Trade Spine,Harrin,Cymoon,0.75
+Corellian Trade Spine,Cymoon,Sibensko,0.75
+Corellian Trade Spine,Sibensko,Kinyen Blutopia,0.75
+Corellian Trade Spine,Kinyen Blutopia,Ivarujar,0.75
+Corellian Trade Spine,Ivarujar,Bomis Koori,0.75
+Corellian Trade Spine,Bomis Koori,Kriselist,0.75
+Corellian Trade Spine,Kriselist,Kaal,0.75
+Corellian Trade Spine,Kaal,Abelor,0.75
+Corellian Trade Spine,Abelor,Jiroch,0.75
+Corellian Trade Spine,Jiroch,Cargamalis,0.75
+Corellian Trade Spine,Cargamalis,Mugaar,0.75
+Corellian Trade Spine,Mugaar,Javin,0.75
+Corellian Trade Spine,Javin,Aztubek,0.75
+Corellian Trade Spine,Aztubek,Kumru,0.75
+Corellian Trade Spine,Kumru,High Chunah,0.75
+Corellian Trade Spine,High Chunah,Kirtarkin,0.75
+Corellian Trade Spine,Kirtarkin,Mexeluine,0.75
+Corellian Trade Spine,Mexeluine,Gerrenthum,0.75
+Corellian Trade Spine,Gerrenthum,Indellian,0.75
+Corellian Trade Spine,Indellian,Bendeluum,0.75
+Corellian Trade Spine,Bendeluum,Zhanox,0.75
+Corellian Trade Spine,Zhanox,Ione,0.75
+Corellian Trade Spine,Ione,Mataou,0.75
+Corellian Trade Spine,Mataou,Anantapar,0.75
+Corellian Trade Spine,Anantapar,Shuxl,0.75
+Corellian Trade Spine,Shuxl,Ertegas,0.75
+Corellian Trade Spine,Ertegas,Darlyn Boda,0.75
+Corellian Trade Spine,Darlyn Boda,Orn Kios,0.75
+Corellian Trade Spine,Orn Kios,Ozu,0.75
+Corellian Trade Spine,Ozu,Isde Naha,0.75
+Corellian Trade Spine,Isde Naha,Togominda,0.75
+Corellian Trade Spine,Togominda,Berrol's Donn,0.75
+Corellian Trade Spine,Berrol's Donn,Trenchenovu,0.75
+Corellian Trade Spine,Trenchenovu,Tureen VII,0.75
+Corellian Trade Spine,Tureen VII,Manpha,0.75
+Corellian Trade Spine,Manpha,Zastiga,0.75
+Corellian Trade Spine,Zastiga,Grava,0.75
+Corellian Trade Spine,Grava,Terminus,0.75
