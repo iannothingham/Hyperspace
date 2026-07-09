@@ -1,0 +1,532 @@
+ID,Planet,Region,Sector,System,Inhabitants,Capital City,Grid Coordinates,Grid Letter,Grid Number,Hyperlane,Is Hyperlane Planet
+4,Ab Dalis,Outer Rim Territories,Unknown,Ab Dalis system,Unknown,Unknown,R-17,R,17,,False
+5,Abafar,Outer Rim Territories,Sprizen sector,Abafar system,Various,Unknown,O-6,O,6,,False
+7,Abelor,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,K-17,K,17,Corellian Trade Spine,True
+8,Abregado-rae,Core Worlds,Unknown,Abregado system,Unknown,Unknown,K-13,K,13,Rimma Trade Route,True
+12,Aeos Prime,Outer Rim Territories,Unknown,Aeos system,Aeosians,Unknown,M-3,M,3,,False
+13,Aeten II,Wild Space,Unknown,Unknown,Unknown,Unknown,J-6,J,6,,False
+16,Agamar,Outer Rim Territories,Unknown,Agamar system,Unknown,Unknown,M-5,M,5,,False
+17,Agaris,Wild Space,Unknown,Unknown,Agarian,Unknown,G-14,G,14,,False
+18,Agoliba-Ado,Unknown,Unknown,Agoliba-Tu system,Unknown,Unknown,K-3,K,3,,False
+19,Agoliba-Ena,Unknown,Unknown,Agoliba-Tu system,Unknown,Unknown,K-3,K,3,,False
+20,Ahch-To,Unknown Regions,Unknown,Ahch-To system,"Human, Lanai",Unknown,F-13,F,13,,False
+21,Ajara,Outer Rim Territories,Cademimu sector,Unknown,Unknown,Unknown,L-5,L,5,,False
+22,Akiva,Outer Rim Territories,Unknown,Unknown,"Ahia-Ko, Uugteen",Myrra,O-6,O,6,,False
+23,Alaris,Mid Rim Territories,Mytaranor sector,Kashyyyk system,Unknown,Unknown,P-9,P,9,,False
+24,Alderaan,Core Worlds,Alderaan sector,Alderaan system,Humans,Aldera,M-10,M,10,,False
+26,Aleen,Mid Rim Territories,Bright Jewel sector,Aleen system,"Aleena, Kindalo",Unknown,L-7,L,7,,False
+30,Aloxor,Mid Rim Territories,Esaga sector,Aloxor system,Unknown,Unknown,R-11,R,11,,False
+31,Alpinn,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,N-4,N,4,,False
+33,Alzoc III,Outer Rim Territories,Sujimis sector,Unknown,Talz,Unknown,P-19,P,19,,False
+34,Ambria,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,O-10,O,10,,False
+39,Anaxes,Core Worlds,Azure sector,Azure system,Unknown,Unknown,R-7,R,7,Pelermian Trade Route,True
+40,Andelm IV,Outer Rim Territories,Unknown,Unknown,Various,Unknown,O-19,O,19,,False
+41,Ando,Mid Rim Territories,Lambda sector,Ando system,Aqualish,Unknown,Q-15,Q,15,,False
+44,Ankhural,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,R-9,R,9,,False
+46,Ansion,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,I-6,I,6,,False
+47,Antar,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,N-12,N,12,,False
+48,Anthan Prime,Outer Rim Territories,Albarrio sector,Anthan system,Various,Unknown,K-3,K,3,,False
+49,Aquaris,Expansion Region,Unknown,Unknown,Unknown,Unknown,N-7,N,7,,False
+51,Arbiflux,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,L-3,L,3,,False
+53,Arbra,Outer Rim Territories,Bon'nyuw-Luq sector,Unknown,Unknown,Unknown,N-17,N,17,,False
+56,Aridus,Expansion Region,Unknown,Unknown,Unknown,Unknown,O-14,O,14,,False
+58,Arkania,Colonies,Unknown,Unknown,Arkanian,Unknown,M-8,M,8,,False
+59,Arkanis,Outer Rim Territories,Arkanis sector,Arkanis system,Humans,Unknown,R-17,R,17,,False
+62,Artiod Minor,Wild Space,Morellian Commonwealth,Artiod system,Artiodacs,Unknown,S-3,S,3,,False
+64,Ashas Ree,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,R-5,R,5,,False
+65,Askaji,Outer Rim Territories,Unknown,Unknown,Askajian,Unknown,M-20,M,20,,False
+67,Asusto,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,P-5,P,5,,False
+75,Avedot,Colonies,Unknown,Unknown,Unknown,Unknown,L-8,L,8,,False
+77,Axxila,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,O-5,O,5,,False
+78,Bakura,Wild Space,Unknown,Unknown,Unknown,Salis D'aar,G-16,G,16,,False
+80,Balosar,Core Worlds,Unknown,Unknown,Balosar,Unknown,L-12,L,12,,False
+84,Banchii,Outer Rim Territories,Unknown,Inugg system,Banchiian,Unknown,K-19,K,19,,False
+86,Baraan-Fa,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,N-17,N,17,,False
+87,Barab I,Outer Rim Territories,Unknown,Unknown,Barabel,Unknown,U-12,U,12,,False
+88,Bardelberan 7,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,J-6,J,6,,False
+89,Bardotta,Colonies,Shasos sector,Bardotta system,Bardottans,Bardotta Capital City,K-13,K,13,,False
+90,Bar'leth,Core Worlds,Unknown,Unknown,Humans,Unknown,M-10,M,10,,False
+92,Bastatha,Inner Rim Territories,Unknown,Bastatha system,Niktos,Unknown,N-10,N,10,,False
+93,Basteel,Outer Rim Territories,Corva sector,Unknown,Unknown,Unknown,P-3,P,3,,False
+94,Bastion,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-3,K,3,,False
+96,Batuu,Outer Rim Territories,Trilon sector,Batuu system,Various,Unknown,G-15,G,15,,False
+97,Batuv,Expansion Region,Unknown,Unknown,Unknown,Unknown,P-12,P,12,,False
+100,Begamor,Outer Rim Territories,Unknown,Unknown,Various,Green Dawn,M-5,M,5,,False
+102,Belderone,Outer Rim Territories,Unknown,Belderone system,Unknown,Unknown,R-6,R,6,,False
+106,Bernilla,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,L-14,L,14,,False
+107,Berzite,Outer Rim Territories,Unknown,Yost system,Unknown,Unknown,U-8,U,8,,False
+108,Bespin,Outer Rim Territories,Anoat sector,Bespin system,"Humans, Ugnaughts",Unknown,K-18,K,18,,False
+109,Bestine IV,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,M-14,M,14,Corellian Trade Spine,True
+112,Birren,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,O-10,O,10,,False
+114,Bith,Outer Rim Territories,Unknown,Unknown,Bith,Unknown,M-18,M,18,,False
+116,Blutopia,Expansion Region,Unknown,Unknown,Blutopians,Unknown,K-16,K,16,,False
+117,Bogano,Outer Rim Territories,Unknown,Unknown,"Humans, Zeffo",Unknown,N-3,N,3,,False
+120,Botajef,Outer Rim Territories,Belsmuth sector,Botajef system,Jefi,Unknown,O-6,O,6,Hydian Way,True
+121,Bothawui,Mid Rim Territories,Bothan Space,Unknown,Unknown,Unknown,R-14,R,14,,False
+122,Botor,Core Worlds,Unknown,Unknown,Lo's species,Unknown,K-12,K,12,,False
+123,Boz Pity,Mid Rim Territories,Unknown,Boz Pity system,Unknown,Unknown,S-9,S,9,,False
+124,Bracca,Mid Rim Territories,Unknown,Bracca system,Unknown,Unknown,P-9,P,9,,False
+126,Brentaal IV,Core Worlds,Bormea sector,Unknown,"Herglics,",Unknown,L-9,L,9,"Hydian Way, Pelermian Trade Route",True
+130,Byss,Deep Core,Unknown,Unknown,Unknown,Unknown,K-11,K,11,,False
+131,Cabarria,Colonies,Unknown,Unknown,Unknown,Unknown,M-13,M,13,,False
+132,Cadomai Prime,Outer Rim Territories,Unknown,Unknown,Snivvian,Unknown,R-3,R,3,,False
+137,Candovant,Colonies,Unknown,Unknown,Unknown,Unknown,N-12,N,12,Hydian Way,True
+141,Cardota,Core Worlds,Unknown,Hosnian system,Unknown,Unknown,M-12,M,12,,False
+142,Carida,Colonies,Unknown,Carida system,Unknown,Unknown,M-9,M,9,,False
+143,Carlac,Outer Rim Territories,Unknown,Carlac system,Humans (Ming Po),Unknown,K-5,K,5,,False
+145,Castell,Colonies,Unknown,Castell system,"Gossams,",Unknown,M-9,M,9,Pelermian Trade Route,True
+146,Castilon,Mid Rim Territories,Tashtor sector,Castilon system,Chelidae,Unknown,I-16,I,16,,False
+148,Cato Neimoidia,Colonies,Quellor sector,Cato Neimoidia system,Neimoidians,Zarra,N-11,N,11,,False
+151,Cerea,Mid Rim Territories,Unknown,Unknown,Cerean,Unknown,I-16,I,16,,False
+152,Cermau,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,H-16,H,16,,False
+154,Chaaktil,Inner Rim Territories,Unknown,Unknown,Humans,Unknown,L-14,L,14,,False
+155,Chad,Outer Rim Territories,Unknown,Unknown,Chadra-Fan,Unknown,R-7,R,7,,False
+156,Chadawa,Inner Rim Territories,Croynar sector,Chadawa system,Unknown,Unknown,N-14,N,14,,False
+157,Chagar IX,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,O-19,O,19,,False
+159,Chalacta,Mid Rim Territories,Unknown,Unknown,Chalactans,Unknown,R-10,R,10,,False
+160,Champala,Inner Rim Territories,Unknown,Unknown,Chagrians,Tidros,L-8,L,8,Hydian Way,True
+161,Chandar's Folly,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,J-20,J,20,,False
+163,Chandrila,Core Worlds,Bormea sector,Chandrila system,"Humans,",Hanna City,L-9,L,9,Pelermian Trade Route,True
+164,Charros IV,"Outer Rim Territories,",Unknown,Unknown,Unknown,Unknown,R-9,R,9,,False
+167,Chibbier,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,I-17,I,17,,False
+168,Cholganna,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,T-5,T,5,,False
+172,Christophsis,Outer Rim Territories,Savareen sector,Christoph system,Unknown,Unknown,Q-16,Q,16,Corellian Run,True
+176,Codia I,Mid Rim Territories,Unknown,Codia system,Unknown,Unknown,H-15,H,15,,False
+177,Colla IV,Inner Rim Territories,Unknown,Unknown,Colicoid,Unknown,N-9,N,9,,False
+179,Commenor,Colonies,Unknown,Unknown,Unknown,Unknown,N-10,N,10,,False
+180,Cona,Inner Rim Territories,Unknown,Unknown,Arcona,Unknown,O-11,O,11,,False
+181,Concord Dawn,Outer Rim Territories,Mandalore sector,Concord Dawn system,Humans,Unknown,P-7,P,7,,False
+183,Corellia,Core Worlds,Corellian sector,Corellia system,"Humans (Corellian),",Coronet City,M-11,M,11,"Corellian Run, Corellian Trade Spine",True
+184,Corulag,Core Worlds,Unknown,Unknown,Humans,Unknown,L-9,L,9,Pelermian Trade Route,True
+185,Coruscant,Core Worlds,"Corusca sector, Coruscant subsector",Coruscant system,Various,Galactic City,L-9,L,9,"Corellian Run, Pelermian Trade Route",True
+188,Cosia,Deep Core,Cosian Space,Cosia system,Cosian,Unknown,M-11,M,11,,False
+191,Courtsilius,Core Worlds,Unknown,Hosnian system,Unknown,Unknown,M-12,M,12,,False
+193,Crait,Outer Rim Territories,Unknown,Crait system,Unknown,Unknown,N-17,N,17,,False
+194,Crucival,Outer Rim Territories,Tion Hegemony,Unknown,Unknown,Unknown,S-6,S,6,,False
+196,Csilla,Unknown Regions,Unknown,Csilla system,Chiss,Csaplar,F-8,F,8,,False
+197,Cuyacan,Expansion Region,Unknown,Unknown,Unknown,Unknown,P-13,P,13,,False
+198,Cyclor,Mid Rim Territories,Unknown,Unknown,Cyclorrians,Unknown,N-17,N,17,,False
+199,Cyphar,Mid Rim Territories,Unknown,Unknown,Cyphari,Unknown,L-17,L,17,,False
+200,Cyrillia,Expansion Region,Unknown,Unknown,Unknown,Unknown,O-12,O,12,,False
+201,Cyrkon,Outer Rim Territories,Unknown,Unknown,Unknown,Motok,T-13,T,13,,False
+204,Dagobah,Outer Rim Territories,Sluis sector,Dagobah system,Tash,Unknown,M-19,M,19,,False
+208,Dalna,Outer Rim Territories,Dalnan sector,Unknown,Various,Saludad,I-19,I,19,,False
+211,Dantooine,Outer Rim Territories,Raioballo sector,Dantooine system,Humans,Unknown,L-4,L,4,,False
+213,Daro,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,N-6,N,6,,False
+215,Dathomir,Outer Rim Territories,Quelli sector,Dathomir system,"Fromprath (later exiled),",Unknown,O-6,O,6,,False
+216,Davnar II,Core Worlds,Unknown,Unknown,Unknown,Unknown,K-9,K,9,,False
+217,Daxam IV,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,N-18,N,18,,False
+223,Demir,Unknown Regions,Unknown,Unknown,Demirians,Unknown,G-6,G,6,,False
+225,Denon,Inner Rim Territories,Unknown,Denon system,Humans,Unknown,N-13,N,13,"Corellian Run, Hydian Way",True
+230,Devaron,Colonies,Duluur sector,Devaron system,Devaronians,Montellian Serat,M-13,M,13,,False
+231,Dhandu,Expansion Region,Unknown,Unknown,Unknown,Unknown,I-8,I,8,,False
+233,Dinwa Prime,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,L-8,L,8,,False
+238,Dorin,Expansion Region,Unknown,Unknown,Kel Dor,Unknown,J-8,J,8,,False
+239,Dotharian,Hutt Space,Unknown,Unknown,Unknown,Unknown,S-12,S,12,,False
+240,Dowut,Core Worlds,Unknown,Unknown,Dowutin,Unknown,J-12,J,12,,False
+241,D'Qar,Outer Rim Territories,Sanbra sector,Ileenium system,Unknown,Unknown,O-17,O,17,,False
+242,Drahgor III,Outer Rim Territories,Unknown,Unknown,Gozzo,Unknown,S-4,S,4,,False
+244,Duro,Core Worlds,Unknown,Unknown,Duros,Unknown,M-11,M,11,Corellian Trade Spine,True
+245,Dwartii,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,N-8,N,8,,False
+247,Dybrin,Deep Core,Unknown,Unknown,Unknown,Unknown,L-12,L,12,,False
+248,Eadu,Outer Rim Territories,Bheriz sector,Eadu system,Humans,Unknown,U-10,U,10,,False
+254,Elom,Outer Rim Territories,Unknown,Unknown,"Elom,",Unknown,R-5,R,5,,False
+255,Elphrona,Outer Rim Territories,Unknown,Elphrona system,Unknown,Unknown,I-17,I,17,,False
+256,Empress Teta,Deep Core,Koros sector,Empress Teta system,Various,Cinnagar,L-10,L,10,,False
+257,Endor,Outer Rim Territories,Moddell sector,Endor system,Unknown,Unknown,H-16,H,16,,False
+258,Ephemera,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,J-14,J,14,,False
+259,Epiphany,Outer Rim Territories,Corporate Sector,Salient system,Unknown,Unknown,R-3,R,3,,False
+260,Eriadu,Outer Rim Territories,Seswenna sector,Eriadu system,"Humans, Rodians",Eriadu City,M-18,M,18,"Hydian Way, Rimma Trade Route",True
+261,Er'Kit,Outer Rim Territories,Unknown,Unknown,Er'Kit,Unknown,M-6,M,6,,False
+262,E'ronoh,Outer Rim Territories,Unknown,Eiram system,Pantorans,Unknown,I-19,I,19,,False
+263,Eroudac,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,P-15,P,15,,False
+267,Espinar,Core Worlds,Unknown,Unknown,Unknown,Unknown,K-9,K,9,,False
+268,Espirion,Inner Rim Territories,Unknown,Unknown,"Alder-Espirions, Espirions",Unknown,N-12,N,12,,False
+275,Exegol,Unknown Regions,Unknown,Exegol system,Unknown,Unknown,F-7,F,7,,False
+277,Falleen,Mid Rim Territories,Unknown,Unknown,Falleen,Unknown,P-15,P,15,,False
+278,Farana,Wild Space,Unknown,Unknown,Unknown,Unknown,S-3,S,3,,False
+280,Fedalle,Core Worlds,Unknown,Unknown,Unknown,Unknown,M-10,M,10,Hydian Way,True
+281,Fedovoi End,Unknown,Unknown,Unknown,Unknown,Unknown,M-14,M,14,,False
+283,Felucia,Outer Rim Territories,Thanium sector,Felucia system,"Felucians,",Unknown,R-6,R,6,,False
+288,Florrum,Outer Rim Territories,Sertar sector,Unknown,Various,Unknown,R-5,R,5,,False
+289,Fondor,Colonies,Unknown,Unknown,Unknown,Unknown,L-13,L,13,,False
+292,Freerock,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,H-13,H,13,,False
+299,Galaan,Outer Rim Territories,Corva sector,Galaan system,Unknown,Unknown,P-4,P,4,,False
+300,Galagolos V,Colonies,Unknown,Unknown,Cloddogran,Unknown,J-9,J,9,,False
+303,Galidraan,Outer Rim Territories,Unknown,Galidraan system,Unknown,Unknown,R-6,R,6,,False
+310,Gamorr,Outer Rim Territories,Galov sector,Unknown,Gamorreans,Unknown,T-14,T,14,,False
+312,Gand,Outer Rim Territories,Unknown,Unknown,Gand,Unknown,T-8,T,8,,False
+313,Gannaria,Outer Rim Territories,Trilon sector,Unknown,Unknown,Unknown,H-15,H,15,,False
+314,Ganthel,Core Worlds,Unknown,Unknown,Humans,Unknown,L-9,L,9,,False
+315,Garel,Outer Rim Territories,Lothal sector,Garel system,"Bith,",Unknown,U-7,U,7,,False
+317,Gatalenta,Core Worlds,Unknown,Unknown,Humans,Unknown,M-10,M,10,,False
+320,Geonosis,Outer Rim Territories,Arkanis sector,Geonosis system,Geonosians,Stalgasin hive,R-16,R,16,,False
+322,Gerrenthum,Outer Rim Territories,Anoat sector,Gerrenthum system,Unknown,Unknown,K-18,K,18,Corellian Trade Spine,True
+325,Ghorman,Colonies,Unknown,Unknown,Unknown,Unknown,L-13,L,13,Rimma Trade Route,True
+327,Gigor,Outer Rim Territories,Tynquay sector,Unknown,Gigorans,Unknown,R-4,R,4,,False
+328,Giju,Colonies,Unknown,Unknown,Unknown,Unknown,L-13,L,13,Rimma Trade Route,True
+330,Glee Anselm,Mid Rim Territories,Unknown,Jalor system,Anselmi,Unknown,J-7,J,7,,False
+332,Gonda,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,N-18,N,18,,False
+333,Gorse,Inner Rim Territories,Unknown,Gorse system,Various,Unknown,O-10,O,10,,False
+336,Grange,Mid Rim Territories,Rocantor sector,Unknown,Humans,Unknown,Q-11,Q,11,,False
+337,Gravlex Med,Outer Rim Territories,Unknown,Unknown,Anx,Ozlyn Gox,L-4,L,4,,False
+339,Guagenia,Inner Rim Territories,Guagenian sector,Unknown,Unknown,Unknown,J-14,J,14,,False
+340,Guat'a,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,P-19,P,19,,False
+344,Gwongdeen,Colonies,Unknown,Unknown,Unknown,Unknown,J-9,J,9,,False
+345,Gyndine,Expansion Region,Circarpous sector,Unknown,Unknown,Unknown,O-12,O,12,,False
+347,Haidoral Prime,Mid Rim Territories,Kontahr sector,Unknown,Unknown,Unknown,R-10,R,10,,False
+351,Harkrova I,Unknown,Unknown,Harkrova system,Unknown,Unknown,N-9,N,9,,False
+353,Haruun Kal,Mid Rim Territories,Unknown,Unknown,"Humans,",Unknown,M-17,M,17,,False
+354,Hays Major,Outer Rim Territories,Unknown,Otomok system,Unknown,Unknown,K-6,K,6,,False
+355,Hays Minor,Outer Rim Territories,Unknown,Otomok system,Unknown,Unknown,K-6,K,6,,False
+356,Hebekrr Major,Outer Rim Territories,Unknown,Hebekrr system,Unknown,Unknown,N-7,N,7,,False
+357,Hebekrr Minor,Outer Rim Territories,Unknown,Hebekrr system,Unknown,Hebekrr Minor's main city,N-7,N,7,,False
+358,Hetzal Prime,Outer Rim Territories,Unknown,Hetzal system,Unknown,Aguirre City,Q-16,Q,16,,False
+359,Hevurion,Inner Rim Territories,Unknown,Unknown,Humans,Unknown,L-8,L,8,Hydian Way,True
+363,Hisseen,Mid Rim Territories,Unknown,Unknown,Hisseenians,Unknown,R-15,R,15,,False
+364,Hissrich,Outer Rim Territories,Unknown,Unknown,Unidentified species,Unknown,R-6,R,6,,False
+366,Horuz,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,L-5,L,5,,False
+367,Hosnian,Core Worlds,Unknown,Hosnian system,Unknown,Unknown,M-12,M,12,,False
+368,Hosnian Prime,Core Worlds,Unknown,Hosnian system,Humans,Republic City,M-12,M,12,,False
+370,Hoth,Outer Rim Territories,Anoat sector,Hoth system,Various,Unknown,K-18,K,18,,False
+371,Hovun IV,Expansion Region,Unknown,Unidentified system,Various,Unknown,P-13,P,13,,False
+374,Huk,Wild Space,Huk sector,Unknown,Yam'rii,Unknown,J-4,J,4,,False
+375,Humbarine,Core Worlds,Unknown,Unknown,Unknown,Unknown,M-10,M,10,,False
+376,Hynestia Prime,Colonies,Unknown,Unknown,Humans (Hynestians),Unknown,J-13,J,13,,False
+378,Hypori,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,S-16,S,16,,False
+379,Iakar,Outer Rim Territories,Unknown,Iakar system,Iakaru,Unknown,N-20,N,20,,False
+380,Ibaar,Outer Rim Territories,Unknown,Unknown,Various,Unknown,T-8,T,8,,False
+381,Iego,Outer Rim Territories,Ash Worlds,Unknown,Various,Unknown,T-7,T,7,,False
+382,Ikkrukk,Mid Rim Territories,Unknown,Unknown,Ikkrukkians,Unknown,P-17,P,17,,False
+383,Iktotchon,Expansion Region,Narvath sector,Iktotch system,Unknown,Unknown,O-14,O,14,,False
+384,Iloh,Inner Rim Territories,Unknown,Unknown,Humans,Unknown,N-9,N,9,,False
+385,Ilum,Unknown Regions,7G sector,Ilum system,Unknown,Unknown,G-7,G,7,,False
+386,Imroosia,Inner Rim Territories,Unknown,Unknown,Imroosian,Unknown,N-9,N,9,,False
+390,Inusagi,Mid Rim Territories,Unknown,Unknown,"Humans, Rayeth",Inusagi's capital city,O-16,O,16,,False
+393,Iridonia,Mid Rim Territories,Unknown,Unknown,Zabraks,Unknown,J-7,J,7,,False
+394,Irudiru,Wild Space,Unknown,Irudiru system,Unknown,Unknown,S-4,S,4,,False
+395,Isde Naha,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-18,K,18,Corellian Trade Spine,True
+396,Iskalon,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,R-16,R,16,,False
+397,Isobe,Expansion Region,Unknown,Thustra system,Sephi,Unknown,O-7,O,7,,False
+398,Ison,Outer Rim Territories,Anoat sector,Ison system,Unknown,Unknown,K-18,K,18,,False
+400,Ithor,Mid Rim Territories,Unknown,Ottega system,Ithorians,Unknown,M-6,M,6,,False
+401,Itzeho,Outer Rim Territories,Albarrio sector,Mygeeto system,Unknown,Unknown,K-5,K,5,,False
+402,Ivarujar,Expansion Region,Unknown,Unknown,Unknown,Unknown,K-15,K,15,Corellian Trade Spine,True
+404,I'vorcia Prime,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,O-4,O,4,,False
+406,Jabiim,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,S-7,S,7,,False
+410,Jakku,Inner Rim Territories,Jakku's sector,Jakku system,"Teedo, Uthuthma",Unknown,I-13,I,13,,False
+411,Jalindi,Outer Rim Territories,Unknown,Jalindi system,Unknown,Unknown,P-6,P,6,,False
+415,Jarbanov,Expansion Region,Unknown,Junker systems,Unknown,Unknown,P-11,P,11,,False
+416,Jaresh,Outer Rim Territories,Corva sector,Unknown,Kyuzo,Unknown,P-4,P,4,,False
+418,Jekara,Mid Rim Territories,Unknown,Jekara system,Unknown,Unknown,R-7,R,7,,False
+419,Jelucan,Outer Rim Territories,Unknown,Unknown,Unknown,Valentia,Q-4,Q,4,Hydian Way,True
+420,Jeosyn,Outer Rim Territories,Unknown,Unknown,Unidentified species,Unknown,N-6,N,6,,False
+422,Jestefad,Outer Rim Territories,Atravis sector,Mustafar system,Unknown,Unknown,L-19,L,19,,False
+424,Jhas,Outer Rim Territories,Anoat sector,Hoth system,Unknown,Unknown,K-18,K,18,,False
+428,Kalarba,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,P-15,P,15,,False
+430,Kaddak,Outer Rim Territories,Unknown,Kaddak system,Unknown,Unknown,T-14,T,14,,False
+431,Kalee,Wild Space,Unknown,Unknown,Kaleesh,Unknown,J-4,J,4,,False
+432,Kalevala,Outer Rim Territories,Mandalore sector,Mandalore system,Humans,Unknown,O-7,O,7,,False
+433,Kalist VI,Deep Core,Unknown,Unknown,Unknown,Unknown,K-12,K,12,,False
+434,Kaller,Outer Rim Territories,Unknown,Kaller system,Kallerans,Unknown,K-5,K,5,,False
+435,Kal'Shebbol,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,M-21,M,21,Rimma Trade Route,True
+438,Kardoa,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,L-5,L,5,,False
+439,Karfeddion,Mid Rim Territories,Senex sector,Unknown,Unknown,Unknown,L-18,L,18,,False
+440,Karkaris,Outer Rim Territories,Nilgaard sector,Unknown,Karkarodons,Unknown,S-5,S,5,,False
+443,Kashyyyk,Mid Rim Territories,Mytaranor sector,Kashyyyk system,Wookiees,Kachirho,P-9,P,9,,False
+444,Keitum,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,J-6,J,6,,False
+447,Kerev Doi,Expansion Region,Unknown,Unknown,"Bodach'i, Humans",Unknown,O-12,O,12,,False
+449,Kerkoidia,Expansion Region,Unknown,Kerkoidia system,Kerkoidens,Unknown,N-15,N,15,,False
+450,Kessel,Outer Rim Territories,Kessel sector,Kessel system,Various,Unknown,T-10,T,10,,False
+452,Ketzali,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,R-13,R,13,,False
+453,Khomm,Deep Core,Unknown,Khomm system,Unknown,Unknown,L-12,L,12,,False
+455,Kiffex,Inner Rim Territories,Unknown,Unknown,Kiffar,Unknown,L-14,L,14,,False
+456,Kiffu,Inner Rim Territories,Unknown,Unknown,Kiffar,Unknown,L-14,L,14,,False
+457,Kijimi,Mid Rim Territories,Bryx sector,Unknown,Unknown,Unknown,R-8,R,8,,False
+460,Kintan,Outer Rim Territories,Unknown,Unknown,Nikto,Unknown,S-9,S,9,,False
+462,Kinyen,Expansion Region,Unknown,Unknown,Gran,Unknown,L-15,L,15,,False
+463,Kirdo III,Outer Rim Territories,Unknown,Unknown,Kitonak,Unknown,N-19,N,19,,False
+464,Kirima,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,J-17,J,17,,False
+468,Klatooine,Outer Rim Territories,Unknown,Unknown,Klatooinians,Unknown,S-9,S,9,,False
+470,Klytus V,Wild Space,Unknown,Unknown,Unknown,Unknown,H-15,H,15,,False
+473,Kooriva,Inner Rim Territories,Unknown,Unknown,Koorivar,Unknown,M-14,M,14,,False
+480,Kowak,Outer Rim Territories,Sevetta sector,Kowak system,Mole-flea,Unknown,S-16,S,16,,False
+482,Kril'Dor,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,I-7,I,7,,False
+483,Krownest,Outer Rim Territories,Mandalore sector,New Kleyman system,Humans,Unknown,P-7,P,7,,False
+485,Ktath'atn,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,M-4,M,4,,False
+486,Kuat,Core Worlds,Kuat sector,Kuat system,"Humans,",Unknown,M-10,M,10,,False
+487,Kubindi,Outer Rim Territories,Unknown,Ku'Bakai system,Kubaz,Unknown,T-9,T,9,,False
+488,Kudo,Inner Rim Territories,Corvair sector,Kudo system,Unknown,Unknown,K-14,K,14,,False
+489,Kullgroon,Expansion Region,Unknown,Unknown,Petrusian,Unknown,P-12,P,12,,False
+490,Kupoh,Mid Rim Territories,Unknown,Kupoh system,Kupohans,Unknown,R-13,R,13,,False
+492,Lah'mu,Outer Rim Territories,Raioballo sector,Lah'mu system,Humans,Unknown,L-3,L,3,,False
+495,Lannik,Mid Rim Territories,Unknown,Unknown,Lanniks,Unknown,R-13,R,13,,False
+497,Lanz Carpo,Core Worlds,Unknown,Unknown,Unknown,Unknown,M-11,M,11,,False
+502,Lefrani,Outer Rim Territories,Atravis sector,Mustafar system,Unknown,Unknown,L-19,L,19,,False
+505,Lespectus,Core Worlds,Unknown,Unknown,Moldwarp,Unknown,M-10,M,10,,False
+509,Lira San,Wild Space,Unknown,Lira San system,Lasats,Unknown,O-20,O,20,,False
+510,Li-Toran,Inner Rim Territories,Unknown,Unknown,Melittos,Unknown,M-13,M,13,,False
+511,Livno III,Wild Space,Unknown,Unknown,Lynna,Unknown,J-21,J,21,,False
+512,Llanic,Outer Rim Territories,Unknown,Llanic system,Unknown,Unknown,Q-16,Q,16,,False
+514,Lola Sayu,Outer Rim Territories,Belderone sector,Lola Sayu system,Unknown,Unknown,R-6,R,6,,False
+516,Lonera,Inner Rim Territories,Unknown,Unknown,Lonerans,Unknown,N-12,N,12,,False
+518,Lothal,Outer Rim Territories,Lothal sector,Lothal system,Various,Capital City,U-7,U,7,,False
+519,Lotho Minor,Outer Rim Territories,Wazta sector,Lotho Minor system,"Anacondans,",Unknown,I-17,I,17,,False
+522,Lutrillia,Outer Rim Territories,Greater Javin,Unknown,Lutrillians,Unknown,J-18,J,18,,False
+523,Lysatra,Expansion Region,Unknown,Unknown,Humans,Unknown,I-8,I,8,,False
+524,Maher,Unknown Regions,Unknown,Unknown,Unknown,Unknown,G-7,G,7,,False
+525,Mahranee,Mid Rim Territories,Unknown,Unknown,Mahran,Mahranee capital city,P-8,P,8,,False
+526,Malachor,Outer Rim Territories,Chorlian sector,Malachor system,Unknown,Unknown,S-4,S,4,,False
+527,Malastare,Mid Rim Territories,Dustig sector,Malastare system,Dugs,Unknown,N-16,N,16,Hydian Way,True
+533,Manaan,Inner Rim Territories,Unknown,Unknown,Selkath,Unknown,O-11,O,11,,False
+534,Mandalore,Outer Rim Territories,Mandalore sector,Mandalore system,Humans,"Keldabe (formerly),",O-7,O,7,,False
+536,Manpha,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-20,K,20,Corellian Trade Spine,True
+540,Mardona III,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,N-13,N,13,,False
+541,Maridun,Outer Rim Territories,Rolion sector,Maridun system,"Amani,",Unknown,Q-6,Q,6,,False
+542,Marleyvane,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,T-8,T,8,,False
+543,Maryx Minor,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,O-19,O,19,,False
+545,Mataou,Outer Rim Territories,Anoat sector,Mataou system,Hutts,Unknown,K-18,K,18,Corellian Trade Spine,True
+548,Megalox Beta,Expansion Region,Unknown,Megalox system,Unknown,Unknown,L-15,L,15,,False
+550,Merj,Outer Rim Territories,Unknown,Unknown,Morseerians,Unknown,O-6,O,6,,False
+551,Merokia,Outer Rim Territories,Unknown,Unknown,Various,Unknown,J-18,J,18,,False
+556,Mikkia,Expansion Region,Unknown,Unknown,Mikkians,Unknown,M-7,M,7,Hydian Way,True
+557,Milvayne,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,L-8,L,8,,False
+558,Mimban,Expansion Region,Circarpous sector,Circarpous system,"Greenie,",Unknown,O-12,O,12,,False
+559,Minfar,Inner Rim Territories,Unknown,Unknown,Zixon,Unknown,I-13,I,13,,False
+561,Mirial,Outer Rim Territories,Unknown,Mirial system,Mirialans,Unknown,Q-4,Q,4,,False
+562,Mirrin Prime,Outer Rim Territories,Mirrin sector,Mirrin system,Unknown,Unknown,P-5,P,5,Hydian Way,True
+563,Miser,Outer Rim Territories,Anoat sector,Bespin system,Unknown,Unknown,K-18,K,18,,False
+564,Mokivj,Outer Rim Territories,Unknown,Mokivj system,Humans,Unknown,G-16,G,16,,False
+567,Mon Cala,Outer Rim Territories,Calamari sector,Mon Calamari system,"Mon Calamari, Quarren",Mon Cala city,U-6,U,6,,False
+568,Mon Gazza,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,Q-16,Q,16,Corellian Run,True
+570,Montross,Mid Rim Territories,Unknown,Montross system,Unknown,Unknown,P-8,P,8,,False
+571,Mooga,Mid Rim Territories,Unknown,Unknown,Moogans,Unknown,Q-7,Q,7,,False
+573,Moraband,Outer Rim Territories,Esstran sector,Unknown,Unknown,Unknown,R-5,R,5,,False
+580,Mulita,Wild Space,Unknown,Mulita system,Drengir,Unknown,H-19,H,19,,False
+581,Murkhana,Outer Rim Territories,Unknown,Murkhana system,Various,Unknown,S-6,S,6,,False
+582,Mustafar,Outer Rim Territories,Atravis sector,Mustafar system,Mustafarians,Fralideja,L-19,L,19,,False
+583,Muunilinst,Outer Rim Territories,Unknown,Unknown,Muuns,Unknown,K-4,K,4,,False
+585,Mygeeto,Outer Rim Territories,Albarrio sector,Mygeeto system,Lurmen,Unknown,K-5,K,5,,False
+586,Mykapo,Outer Rim Territories,Unknown,Mykapo system,Humans,Unknown,T-7,T,7,,False
+588,Naalol,Unknown,Unknown,Unknown,Humans,Unknown,L-17,L,17,,False
+590,Naboo,Mid Rim Territories,Chommell sector,Naboo system,"Elders,","Otoh Gunga (Gungan), Theed (Human)",O-17,O,17,,False
+591,Nacronis,Mid Rim Territories,Unknown,Nacronis system,Unknown,Unknown,M-7,M,7,,False
+592,Nag Ubdur,Outer Rim Territories,Unknown,Ubdur system,"Keldar, Ubdurians",Unknown,P-7,P,7,,False
+593,Najan-Rovi,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,M-17,M,17,,False
+594,NaJedha,Mid Rim Territories,Terrabe sector,Jedha system,Unknown,Unknown,H-10,H,10,,False
+596,Najra-Va,Unknown Regions,Sector Epsilon 51-3,Dassal system,Unknown,Unknown,H-7,H,7,,False
+597,Nakadia,Expansion Region,Unknown,Unknown,Nakadians,Quarrow,M-15,M,15,,False
+598,Nal Hutta,Outer Rim Territories,Unknown,Unknown,Various,Unknown,S-12,S,12,,False
+599,Nam Chorios,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,R-6,R,6,,False
+600,Nanth'ri,Mid Rim Territories,Unknown,Nanth'ri system,Unknown,Unknown,Q-12,Q,12,,False
+603,Naraka,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,S-7,S,7,,False
+604,Narq,Colonies,Unknown,Unknown,Narquois,Unknown,N-11,N,11,,False
+606,Necropolis,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,H-16,H,16,,False
+609,Neimoidia,Colonies,Unknown,Neimoidia system,Neimoidians,Unknown,N-10,N,10,,False
+611,Nelvaan,Outer Rim Territories,Savareen sector,Unknown,Nelvaanians,Unknown,Q-16,Q,16,,False
+612,Nepotis,Outer Rim Territories,Unknown,Unknown,Nephrans,Unknown,T-9,T,9,,False
+616,Netalych,Inner Rim Territories,Unknown,Netalych system,Unknown,Unknown,N-14,N,14,,False
+618,Nevarro,Outer Rim Territories,Nevarro's sector,Unknown,Various,Unknown,J-19,J,19,Hydian Way,True
+619,Nimban,Hutt Space,Unknown,Unknown,Nimbanel,Unknown,S-10,S,10,,False
+621,Nixus,Unknown,Unknown,Unknown,Various,Unknown,P-18,P,18,,False
+623,Noctu,Colonies,Unknown,Unknown,Unknown,Unknown,J-13,J,13,,False
+627,Nothoiin,Outer Rim Territories,Anoat sector,Unknown,Nothoiins,Unknown,K-18,K,18,,False
+629,Numidian Prime,Mid Rim Territories,Bright Jewel sector,Numidian system,Unknown,Unknown,L-7,L,7,,False
+631,N'Zoth,Core Worlds,Koornacht Cluster,Unknown,Unknown,Unknown,K-10,K,10,,False
+632,Oba Diah,Outer Rim Territories,Kessel sector,Kessel system,Pykes,Unknown,T-10,T,10,,False
+633,Obroa-skai,Inner Rim Territories,Unknown,Obroa-skai system,Unknown,Unknown,N-8,N,8,,False
+635,Odona,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,Q-17,Q,17,,False
+636,Ogem,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,L-17,L,17,,False
+637,Ojom,Deep Core,Unknown,Unknown,Besalisk,Unknown,M-11,M,11,,False
+640,Omereth,Outer Rim Territories,Unknown,Omereth system,Unknown,Unknown,U-13,U,13,,False
+641,Onderon,Inner Rim Territories,Japrael sector,Japrael system,Humans (Onderonian),Iziz,O-9,O,9,,False
+642,Onod I,Mid Rim Territories,Unknown,Unknown,Onodone,Unknown,K-17,K,17,,False
+646,Oosalon,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,U-12,U,12,,False
+647,Orchis,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,N-8,N,8,,False
+648,Ord Cestus,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,O-6,O,6,,False
+649,Ord Mantell,Mid Rim Territories,Bright Jewel sector,Bright Jewel system,"Falleens, Humans",Worlport,L-7,L,7,,False
+651,Ord Pardron,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,R-15,R,15,,False
+654,Orish,Outer Rim Territories,Unknown,Unknown,Orishen,Unknown,M-17,M,17,Hydian Way,True
+660,Orto Plutonia,Outer Rim Territories,Sujimis sector,Pantora system,Talz,Unknown,P-19,P,19,,False
+661,Oru,Outer Rim Territories,Unknown,Unknown,Humans (Oruan),Unknown,L-3,L,3,,False
+662,Oshira,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,O-16,O,16,,False
+663,Osseriton,Unknown Regions,Unknown,Unknown,Unknown,Unknown,G-9,G,9,,False
+664,Ossus,Outer Rim Territories,Auril sector,Adega system,Ysanna,Unknown,R-6,R,6,,False
+665,Oulanne,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,L-14,L,14,,False
+666,Ovanis,Outer Rim Territories,Unknown,Unknown,"Ithorians, Trandoshans",Unknown,G-16,G,16,,False
+667,Pacara,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,J-14,J,14,,False
+669,Pamarthe,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,N-18,N,18,,False
+670,Pam'ba,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,H-15,H,15,,False
+671,Pandem Nai,Outer Rim Territories,Unknown,Pandem Nai system,Unknown,Unknown,P-6,P,6,,False
+673,Panna,Outer Rim Territories,Cronese Mandate,Unknown,Unknown,Unknown,S-6,S,6,,False
+676,Parnassos,Unknown Regions,Unknown,Unknown,Humans,Unknown,H-6,H,6,,False
+678,Pasaana,Expansion Region,Ombakond sector,Middian system,Aki-Aki,Unknown,O-13,O,13,,False
+679,Pasher,Inner Rim Territories,Unknown,Unknown,Humans,Unknown,M-14,M,14,,False
+680,Pastoria,Outer Rim Territories,Unknown,Unknown,Pastorians,Unknown,P-17,P,17,,False
+682,Patrolia,Unknown,Unknown,Unknown,Patrolians,Unknown,L-14,L,14,,False
+685,Pergoomi,Outer Rim Territories,Albarrio sector,Mygeeto system,Unknown,Unknown,K-5,K,5,,False
+687,Persis IX,Expansion Region,Unknown,Unknown,Grindalids,Unknown,L-15,L,15,,False
+688,Petrusia,Expansion Region,Unknown,Unknown,Petrusians,Unknown,P-12,P,12,,False
+690,Phatrong,Outer Rim Territories,Unknown,Unknown,Kyuzos,Unknown,P-6,P,6,,False
+691,Pheryon,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,J-8,J,8,,False
+693,Phindar,Outer Rim Territories,Mandalore sector,Phindar system,Phindians,Unknown,P-6,P,6,,False
+699,Pipada,Outer Rim Territories,Unknown,Unknown,Drabatans,Unknown,M-18,M,18,,False
+700,Pippip 3,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,Q-4,Q,4,,False
+703,Plexis,Core Worlds,Unknown,Unknown,Unknown,Unknown,L-13,L,13,,False
+706,Polis Massa,Outer Rim Territories,Subterrel sector,Polis Massa system,"Eellayin,",Unknown,K-20,K,20,,False
+709,Polyneus,Inner Rim Territories,Unknown,Unknown,Humans (Polynean),Unknown,J-14,J,14,,False
+710,Ponemah Terminal,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,H-16,H,16,,False
+719,Qhulosk,Outer Rim Territories,Unknown,Unknown,Qhuloskians,Unknown,T-8,T,8,,False
+721,Quarmendy,Mid Rim Territories,Unknown,Unknown,Humans,Unknown,R-15,R,15,,False
+722,Quarzite,Inner Rim Territories,Unknown,Quarzite system,"Belugans, Kage",Unknown,M-13,M,13,,False
+723,Quell,Outer Rim Territories,Unknown,Quell system,Unknown,Unknown,Q-6,Q,6,,False
+724,Quermia,Outer Rim Territories,Unknown,Unknown,Quermians,Unknown,S-5,S,5,Pelermian Trade Route,True
+730,Raithal,Colonies,Unknown,Unknown,Unknown,Unknown,M-9,M,9,Pelermian Trade Route,True
+731,Rajtiri,Expansion Region,Unknown,Unknown,Unknown,Unknown,P-9,P,9,,False
+732,Rakata Prime,Unknown Regions,Unknown,Unknown,Unknown,Unknown,G-11,G,11,,False
+736,Rattatak,Outer Rim Territories,Unknown,Unknown,Various,Unknown,H-16,H,16,,False
+737,Raxus Prime,Outer Rim Territories,Tion Hegemony,Raxus system,Unknown,Unknown,S-5,S,5,,False
+738,Raxus Secundus,Outer Rim Territories,Tion Hegemony,Raxus system,Various,Raxulon,S-5,S,5,,False
+739,Raydonia,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,O-6,O,6,,False
+740,Raysho,Core Worlds,Unknown,Hosnian system,Unknown,Unknown,M-12,M,12,,False
+743,Refnu,Outer Rim Territories,Unknown,Refnu system,Nefrians,Unknown,N-5,N,5,,False
+746,Rendili,Core Worlds,Unknown,Unknown,Unknown,Unknown,M-11,M,11,,False
+749,Rhen Var,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,R-6,R,6,,False
+753,Riflor,Mid Rim Territories,Unknown,Unknown,Advozse,Unknown,J-16,J,16,,False
+754,Rina Major,Outer Rim Territories,Unknown,Unknown,Blarina,Unknown,I-17,I,17,,False
+755,Ringo Vinda,Mid Rim Territories,Unknown,Unknown,Humans,Unknown,R-7,R,7,,False
+756,Rinn,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,U-12,U,12,,False
+759,Riosa,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,J-8,J,8,,False
+760,Rishi,Outer Rim Territories,Abrion sector,Rishi system,Unknown,Unknown,S-15,S,15,,False
+761,Risso,Expansion Region,Unknown,Unknown,Unknown,Unknown,N-14,N,14,,False
+762,Rodia,Outer Rim Territories,Savareen sector,Tyrius system,Rodians,Unknown,R-16,R,16,,False
+764,Ronika,Deep Core,Koros sector,Empress Teta system,Unknown,Unknown,L-10,L,10,,False
+769,Ruusan,Mid Rim Territories,Teraab sector,Ruusan system,Ruusanian,Unknown,P-11,P,11,,False
+771,Ryloth,Outer Rim Territories,Gaulus sector,Ryloth system,Twi'leks,Lessu,R-17,R,17,Corellian Run,True
+772,Rystan,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,M-20,M,20,,False
+774,Saki,Outer Rim Territories,Unknown,Unknown,Sakiyans,Unknown,S-11,S,11,,False
+775,Saleucami,Outer Rim Territories,Suolriep sector,Saleucami system,"Humans, Twi'leks",Unknown,S-8,S,8,,False
+776,Salient I,Outer Rim Territories,Corporate Sector,Salient system,Various,Unknown,R-3,R,3,,False
+777,Salient II,Outer Rim Territories,Corporate Sector,Salient system,Various,Unknown,R-3,R,3,,False
+778,Salliche,Core Worlds,Unknown,Unknown,Sallichens,Unknown,K-10,K,10,,False
+780,Samovar,Western Reaches,Unknown,Unknown,Unknown,Unknown,I-18,I,18,,False
+782,Sarka,Mid Rim Territories,Unknown,Unknown,Sarkans,Unknown,Q-8,Q,8,,False
+787,Scarif,Outer Rim Territories,Abrion sector,Scarif system,Humans,Unknown,S-15,S,15,,False
+793,Seelos,Outer Rim Territories,Kwymar sector,Seelos system,Humans (clones),Unknown,Q-4,Q,4,,False
+795,Selonia,Core Worlds,Corellian sector,Corellia system,Selonians,Unknown,M-11,M,11,,False
+796,Sembla,Outer Rim Territories,Mahrusha sector,Unknown,Vurk,Unknown,S-5,S,5,,False
+797,Serelia,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,J-16,J,16,,False
+798,Serenno,Outer Rim Territories,D'Astan sector,Serenno system,Humans (Serennian),Unknown,P-5,P,5,,False
+799,Sergia,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,J-15,J,15,,False
+801,Sesid,Outer Rim Territories,Corva sector,Sesid system,Draedans,Unknown,P-4,P,4,,False
+803,Sevarcos,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,N-19,N,19,,False
+806,Shadda-Bi-Boran,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,O-18,O,18,,False
+807,Shantipole,Mid Rim Territories,Unknown,Unknown,Mon Calamari,Unknown,Q-8,Q,8,,False
+809,Shili,Expansion Region,Unknown,Shili system,Togruta,Unknown,L-8,L,8,,False
+811,Shuraden,Outer Rim Territories,Unknown,Unknown,Ximpi,Unknown,I-18,I,18,,False
+812,Shu-Torun,Mid Rim Territories,Unknown,Unknown,Humans,Unknown,J-7,J,7,,False
+813,Sibensko,Expansion Region,Unknown,Unknown,"Humans, Nikto",Unknown,L-15,L,15,Corellian Trade Spine,True
+815,Sissubo,Core Worlds,Bormea sector,Chandrila system,Unknown,Unknown,L-9,L,9,,False
+816,Skako,Core Worlds,Unknown,Unknown,Skakoans,Unknown,L-9,L,9,Hydian Way,True
+818,Skaradosh,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,N-13,N,13,,False
+820,Skuhl,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,R-5,R,5,,False
+821,Sleheyron,Hutt Space,Unknown,Unknown,Unknown,Unknown,S-10,S,10,,False
+824,Son-tuul,Outer Rim Territories,Albarrio sector,Unknown,Various,Unknown,J-4,J,4,,False
+827,Spalex,Outer Rim Territories,Dantus sector,Unknown,Unidentified species,Unknown,J-6,J,6,,False
+832,Sriluur,Outer Rim Territories,Unknown,Unknown,Weequays,Unknown,S-8,S,8,,False
+833,Sterdic IV,Unknown,Unknown,Unknown,Unidentified species,Sterdic IV's capital city,P-17,P,17,,False
+836,Stobar,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,M-15,M,15,,False
+837,Strokill Prime,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,U-6,U,6,,False
+839,Stygeon Prime,Outer Rim Territories,Nuiri sector,Stygeon system,Unknown,Unknown,Q-6,Q,6,,False
+841,Subterrel,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,L-20,L,20,,False
+842,Sullust,Outer Rim Territories,Sullust sector,Sullust system,Sullustans,Pinyumb,M-17,M,17,Rimma Trade Route,True
+844,Sy Myrth,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,S-7,S,7,,False
+846,Taanab,Inner Rim Territories,Unknown,Taanab system,Unknown,Unknown,O-8,O,8,Pelermian Trade Route,True
+847,Tah'Nuhna,Mid Rim Territories,Unknown,Unknown,Tah'Nuhna,Unknown,Q-14,Q,14,,False
+849,Takobo,Outer Rim Territories,Unknown,Unknown,Ithorians,Takobo City,N-6,N,6,,False
+850,Takodana,Mid Rim Territories,Tashtor sector,Takodana system,Unknown,Unknown,J-16,J,16,,False
+852,Talus,Core Worlds,Corellian sector,Corellia system,Unknown,Unknown,M-11,M,11,,False
+853,Tammuz-an,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,T-14,T,14,,False
+856,Tansyl 5,Mid Rim Territories,Unknown,Unknown,Frigosian,Unknown,O-16,O,16,,False
+857,Taris,Outer Rim Territories,Unknown,Taris system,"Humans,",Unknown,N-7,N,7,,False
+858,Tarsunt,Mid Rim Territories,Bothan Space,Tarsunt system,Tarsunts,Unknown,T-14,T,14,,False
+859,Tatooine,Outer Rim Territories,Arkanis sector,Tatoo system,"Jawas, Tusken Raiders,",Unknown,R-16,R,16,,False
+860,Taul,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,J-18,J,18,,False
+862,Tehar,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,I-7,I,7,,False
+866,Tepasi,Core Worlds,Unknown,Unknown,Humans,Unknown,L-9,L,9,,False
+868,Teth,Wild Space,Baxel sector,Teth system,Hutts,Unknown,U-12,U,12,,False
+869,Tevel,Outer Rim Territories,Unknown,Unknown,Tevellans,Unknown,J-5,J,5,,False
+870,Thabeska,Outer Rim Territories,Unknown,Thabeska system,Unknown,Unknown,O-5,O,5,,False
+874,Thisspias,Expansion Region,Unknown,Unknown,Thisspiasians,Unknown,O-8,O,8,,False
+878,Throffdon,Inner Rim Territories,Unknown,Throffdon system,Unknown,Unknown,J-9,J,9,,False
+880,Thune,Wild Space,Unknown,Unknown,Various,Unknown,I-18,I,18,,False
+881,Thustra,Expansion Region,Unknown,Thustra system,Unknown,Unknown,O-7,O,7,,False
+882,Thyferra,Inner Rim Territories,Unknown,Unknown,Vratix,Unknown,L-14,L,14,Rimma Trade Route,True
+883,Tibrin,Mid Rim Territories,Hadar sector,Unknown,Ishi Tib,Tibrina,L-18,L,18,,False
+885,Tiferep Major,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,L-17,L,17,,False
+887,Tinnel IV,Core Worlds,Unknown,Unknown,Humans,Val Denn,M-12,M,12,Corellian Run,True
+891,Toledian,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,I-16,I,16,,False
+892,Toola,Outer Rim Territories,Unknown,Unknown,Whiphids,Unknown,S-5,S,5,,False
+893,Toprawa,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,P-5,P,5,Hydian Way,True
+896,Toydaria,Mid Rim Territories,Hutt Space,Toydaria system,Toydarians,Unknown,R-11,R,11,,False
+897,Tralus,Core Worlds,Corellian sector,Corellia system,Unknown,Unknown,M-11,M,11,,False
+898,Trandosha,Mid Rim Territories,Mytaranor sector,Kashyyyk system,Trandoshans,Unknown,P-9,P,9,,False
+900,Triffis,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,O-15,O,15,,False
+903,Troiken,Outer Rim Territories,Unknown,Unknown,Xexto,Unknown,S-5,S,5,,False
+904,Troithe,Deep Core,Unknown,Cerberon system,Unknown,Unknown,L-10,L,10,,False
+905,Trymant IV,Outer Rim Territories,Unknown,Trymant system,Various,Unknown,L-20,L,20,,False
+906,Tsevuka,Outer Rim Territories,Unknown,Unknown,Tsevukans,Unknown,M-6,M,6,,False
+907,Tund,Outer Rim Territories,Centrality,Tund system,Toongs,Unknown,U-8,U,8,,False
+908,Tureen VII,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-19,K,19,Corellian Trade Spine,True
+912,Tynna,Expansion Region,Unknown,Unknown,Tynnans,Unknown,N-14,N,14,,False
+913,Tython,Deep Core,Unknown,Tython system,Unknown,Unknown,L-10,L,10,,False
+914,Uba IV,Mid Rim Territories,Barsa sector,Uba system,Ubese,Unknown,J-6,J,6,,False
+915,Ubardia,Colonies,Unknown,Unknown,Humans,Unknown,N-12,N,12,Hydian Way,True
+917,Ukio,Outer Rim Territories,Abrion sector,Unknown,Ukians,Unknown,S-15,S,15,,False
+918,Umbara,Expansion Region,Ghost Nebula sector,Umbara system,Umbarans,Umbaran capital city,P-10,P,10,,False
+972,Urajab,Expansion Region,Unknown,Unknown,Unknown,Unknown,L-16,L,16,,False
+975,Ushruu,Expansion Region,Unknown,Unknown,Unknown,Unknown,O-13,O,13,,False
+976,Utapau,Outer Rim Territories,Tarabba sector,Utapau system,"Amani,",Pau City,N-19,N,19,,False
+977,Uvena Prime,Outer Rim Territories,Unknown,Uvena system,Shistavanens,Unknown,M-18,M,18,,False
+978,Uyter,Mid Rim Territories,Unknown,Unknown,Humans,Central City,P-9,P,9,,False
+981,Vallt,Outer Rim Territories,Unknown,Unknown,Valltii,Unknown,P-17,P,17,,False
+985,Vandor,Mid Rim Territories,Sloo sector,Unknown,Unknown,Unknown,P-14,P,14,,False
+987,Vardos,Core Worlds,Unknown,Jinata system,"Aqualish, Humans",Kestro,K-9,K,9,,False
+988,Varkana,Outer Rim Territories,Unknown,Varkana system,Unknown,Unknown,O-6,O,6,,False
+991,Vashka,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,Q-17,Q,17,,False
+992,Vassek,Outer Rim Territories,Wazta sector,Vassek system,Unknown,Unknown,I-17,I,17,,False
+995,Vendaxa,Expansion Region,Unknown,Unknown,Unknown,Unknown,O-14,O,14,,False
+996,Vernid,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,M-4,M,4,,False
+1000,Vespaara,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,S-8,S,8,,False
+1001,Vetine,Inner Rim Territories,Merrick sector,Unknown,Unknown,Unknown,L-14,L,14,,False
+1006,Vixnix,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,I-7,I,7,,False
+1007,Vjun,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,Q-6,Q,6,,False
+1009,Vodran,Hutt Space,Si'Klaata Cluster,Unknown,Vodrans,Unknown,S-9,S,9,,False
+1010,Vorlag,Outer Rim Territories,Unknown,Unknown,Vorlaggn,Unknown,P-18,P,18,,False
+1013,Vrogas Vas,Outer Rim Territories,Unknown,Unknown,Humans,Unknown,O-19,O,19,,False
+1014,Vulpter,Deep Core,Unknown,Unknown,Unknown,Unknown,L-10,L,10,,False
+1015,Vurdon Ka,Inner Rim Territories,Unknown,Unknown,Vuvrians,Unknown,M-9,M,9,Pelermian Trade Route,True
+1017,Wadi Raffa,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,M-20,M,20,,False
+1018,Warlentta,Mid Rim Territories,Unknown,Warlentta system,Humans,Unknown,M-7,M,7,,False
+1021,Wecacoe,Colonies,Unknown,Unknown,Various,Unknown,K-13,K,13,,False
+1024,Weyland,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,N-7,N,7,,False
+1026,Wick 111,Outer Rim Territories,Unknown,Unknown,Wickwar,Unknown,S-16,S,16,,False
+1028,Wobani,Mid Rim Territories,Bryx sector,Wobani system,Humans,Unknown,R-8,R,8,,False
+1029,Wrea,Outer Rim Territories,Unknown,Unknown,Wreans,Unknown,S-17,S,17,,False
+1030,Wynkahthu,Mid Rim Territories,Unknown,Unknown,Unknown,Unknown,L-7,L,7,,False
+1032,Xala,Wild Space,Unknown,Xala system,Unknown,Unknown,H-14,H,14,,False
+1034,Xibariz,Inner Rim Territories,Unknown,Unknown,Unknown,Unknown,O-9,O,9,,False
+1035,Xirl,Wild Space,Unknown,Unknown,Unknown,Unknown,O-20,O,20,,False
+1037,Yabol Opa,Colonies,Unknown,Unknown,Unknown,Unknown,M-9,M,9,Pelermian Trade Route,True
+1038,Yaga Minor,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-5,K,5,,False
+1039,Yag'Dhul,Inner Rim Territories,Unknown,Unknown,Givin,Unknown,L-14,L,14,"Corellian Trade Spine, Rimma Trade Route",True
+1041,Yar Togna,Outer Rim Territories,Unknown,Unknown,Tognath,Unknown,P-18,P,18,,False
+1042,Yarma,Outer Rim Territories,Unknown,Yarma system,Unknown,Unknown,T-8,T,8,,False
+1043,Yavin Prime,Outer Rim Territories,Gordian Reach,Yavin system,Unknown,Unknown,P-6,P,6,,False
+1045,Yerbana,Outer Rim Territories,Savareen sector,Unknown,Unknown,Unknown,Q-17,Q,17,,False
+1046,Ylesia,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,T-12,T,12,,False
+1052,Zastiga,Outer Rim Territories,Unknown,Unknown,Unknown,Unknown,K-20,K,20,Corellian Trade Spine,True
+1054,Zeffo,Outer Rim Territories,Unknown,Zeffo system,Zeffo,Unknown,M-3,M,3,,False
+1056,Zhanox,Outer Rim Territories,Anoat sector,Zhanox system,Ugnaughts,Unknown,K-18,K,18,Corellian Trade Spine,True
+1058,Zolan,Mid Rim Territories,Lambda sector,Unknown,Clawdites,Unknown,P-16,P,16,,False
+1060,Zygerria,Outer Rim Territories,Chorlian sector,Zygerria system,Zygerrians,Unknown,S-4,S,4,,False
