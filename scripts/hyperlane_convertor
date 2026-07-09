@@ -1,0 +1,27 @@
+route_name = "Hydian Way"
+speed_factor = 0.75
+
+# Lecture du fichier
+
+with open("Data/Raw/perlemian.txt", "r") as f:
+
+    planets = [line.strip() for line in f if line.strip()]
+
+# Création des segments de route
+rows = []
+
+for i in range(len(planets) - 1):
+    rows.append({
+        "Route": route_name,
+        "From": planets[i],
+        "To": planets[i + 1],
+        "Speed Factor": speed_factor
+    })
+
+# Export CSV avec séparateur ;
+import pandas as pd
+
+df = pd.DataFrame(rows)
+df.to_csv("routes_hyperspace.csv", sep=";", index=False)
+
+print(df)
